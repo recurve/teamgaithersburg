@@ -1,0 +1,137 @@
+{
+    "palette": [
+        {
+            "name": "layout",
+            "items": [
+                {
+                    "name": "enyo.Node",
+                    "description": "A tree node",
+                    "config": {
+                        "kind": "enyo.Node"
+                    }
+                },
+                {
+                    "name": "enyo.Panels",
+                    "description": "Selectable sub-view",
+                    "config": {
+                        "kind": "enyo.Panels",
+                        "classes": "enyo-fit"
+                    }
+                },
+                {
+                    "name": "enyo.Slideable",
+                    "description": "Slideable sub-view",
+                    "config": {
+                        "kind": "enyo.Slideable"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "layout-fittable",
+            "items": [
+                {
+                    "name": "enyo.FittableRows",
+                    "description": "Vertical stacked layout",
+                    "config": {
+                        "kind": "enyo.FittableRows"
+                    }
+                },
+                {
+                    "name": "enyo.FittableColumns",
+                    "description": "Horizontal stacked layout",
+                    "config": {
+                        "kind": "enyo.FittableColumns"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "layout-imageview",
+            "items": [
+                {
+                    "name": "enyo.ImageCarousel",
+                    "description": "A carousel of images",
+                    "config": {
+                        "kind": "enyo.ImageCarousel"
+                    }
+                },
+                {
+                    "name": "enyo.ImageView",
+                    "description": "A scalable Image View",
+                    "config": {
+                        "kind": "enyo.ImageView"
+                    }
+                },
+                {
+                    "name": "enyo.ImageViewPin",
+                    "description": "An unscaled item inside an ImageView",
+                    "config": {
+                        "kind": "enyo.ImageViewPin"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "layout-list",
+            "items": [
+                {
+                    "name": "enyo.AroundList",
+                    "description": "List with elements above the list",
+                    "config": {
+                        "kind": "enyo.AroundList",
+                        "options": {
+                            "isRepeater": true
+                        }
+                    }
+                },
+                {
+                    "name": "enyo.List",
+                    "description": "Infinite scrolling list",
+                    "config": {
+                        "kind": "enyo.List",
+                        "fit": true,
+                        "options": {
+                            "isRepeater": true
+                        }
+                    }
+                },
+                {
+                    "name": "enyo.PulldownList",
+                    "description": "List with pull-to-refresh",
+                    "config": {
+                        "kind": "enyo.PulldownList",
+                        "options": {
+                            "isRepeater": true
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "inspector": [
+        {
+            "type": "kind",
+            "name": "enyo.Panels",
+            "properties": {
+                "arrangerKind": {
+                    "filterLevel": "useful",
+                    "inputKind": {
+                        "kind": "Inspector.Config.Select",
+                        "values": [
+                            "CardArranger",
+                            "CardSlideInArranger",
+                            "CarouselArranger",
+                            "CollapsingArranger",
+                            "DockRightArranger",
+                            "GridArranger",
+                            "LeftRightArranger",
+                            "SpiralArranger",
+                            "TopBottomArranger"
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "com.examples.apps.myapp",
+  "version": "0.0.1",
+  "name": "FlickrPanelsAppSimple",
+  "title": "Example: My Application",
+  "author": {
+    "name": "An Example Company",
+    "href": "http://www.example.com"
+  },
+  "description": "Description of My Application",
+  "preview": {
+    "top_file": "/debug.html"
+  },
+  "providers": {
+    "phonegap": {
+      "enabled": false,
+      "access": {
+        "origin": ""
+      },
+      "features": {
+        "battery": false,
+        "camera": false,
+        "contact": false,
+        "file": false,
+        "media": false,
+        "geolocation": false,
+        "network": true,
+        "notification": false,
+        "device": true
+      },
+      "preferences": {
+        "phonegap-version": "3.0.0",
+        "orientation": "both",
+        "target-device": "handset",
+        "fullscreen": "true",
+        "android-installLocation": "internalOnly",
+        "android-minSdkVersion": "7",
+        "android-targetSdkVersion": "None",
+        "android-maxSdkVersion": "None",
+        "android-windowSoftInputMode": "adjustResize",
+        "splash-screen-duration": "5000",
+        "load-url-timeout": "20000",
+        "webviewbounce": "true",
+        "prerendered-icon": "false",
+        "ios-statusbarstyle": "black-opaque",
+        "detect-data-types": "true",
+        "exit-on-suspend": "false",
+        "show-splash-screen-spinner": "false",
+        "auto-hide-splash-screen": "true",
+        "disable-cursor": "false"
+      },
+      "icon": {
+        "sharedConfiguration": {
+          "src": ""
+        },
+        "android": {
+          "src": "",
+          "density": ""
+        },
+        "ios": {
+          "src": "",
+          "height": "",
+          "width": ""
+        },
+        "winphone": {
+          "src": ""
+        },
+        "blackberry": {
+          "src": ""
+        },
+        "webos": {
+          "src": ""
+        }
+      },
+      "splashScreen": {
+        "sharedConfiguration": {
+          "src": ""
+        },
+        "android": {
+          "src": "",
+          "density": ""
+        },
+        "ios": {
+          "src": "",
+          "height": "",
+          "width": ""
+        },
+        "winphone": {
+          "src": ""
+        },
+        "blackberry": {
+          "src": ""
+        },
+        "webos": {
+          "src": ""
+        }
+      },
+      "targets": {
+        "android": {}
+      },
+      "appId": 1404906,
+      "autoGenerateXML": true,
+      "minification": true
+    }
+  }
+}
