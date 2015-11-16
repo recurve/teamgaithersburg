@@ -176,7 +176,9 @@ enyo.kind({
 			}, 
 			
 			{title: "Overdevelopment", 
-				details: "The semi-rural feel of our city has almost disappeared. Our green spaces are few and rare. If we keep going down this path we will end up being another Baltimore City. Who wants that? The majority of citizens want a light suburban feel with good food and convient shopping. We do not want a concrete jungle without even a place to let our dogs run. " 
+				details: "<p>The semi-rural feel of our city has almost disappeared. Our green spaces are few and rare. If we keep going down this path we will end up being another Baltimore City. Who wants that? The majority of citizens want a light suburban feel with good food and convient shopping. We do not want a concrete jungle without even a place to let our dogs run. </p>" +
+				"<p> Local government have not asked citizens for input on what the big picture should be. Local government has not asked us what the upper limit on our city population should be. Local government has not asked us, &ldquo;How many people are too many people&rdquo; Instead they go for the power plays by wealthy developers</p> " + 
+				"<p> How do we want our city to feel, what quality of life is important to us? This is a conversation we must have before it is too late</p>"
 			}, 
 
 			{title: "Dog Park repurposed for something else", 
