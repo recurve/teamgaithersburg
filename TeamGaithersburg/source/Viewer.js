@@ -167,6 +167,7 @@ enyo.kind({
 				"<p>We should look into what it would take to break off from MCPS (Montgomery County Public Schools). How much will it cost to buy the current buildings from MCPS and roll our own school system? </p> " + 
 				"<p>The county is determined to raise our taxes on a bus system called the CCT (Corridor Cities Transitway) in addition to the Ride-On buses we already have which are hardly used. Why not cancel the CCT and spend the money on our schools? If you think education is expensive, try ignorance. </p>" + 
 				"Learn more: <ol>" +
+				"<li><a href=\"https://www.youtube.com/watch?v=j-f3fbdjIgQ#t=22m30s\">Watch Council Member Neil Harris prevent our neighbors from voicing their ideas about school overcrowding and Aaron asking him to be a man</a></li>" + 
 				"<li><a href=\"http://mcpsmd.swagit.com/play/11122015-1062\">See our council talk and talk at county board meetings but nothing ever happens</a></li>" +
 				"<li><a href=\"http://thesentinel.com/mont/newsx/local/item/2384-gaithersburg-studies-adequate-public-facilities-ordinance\">150% overcrowding reported by Sentinel Newspaper</a></li>" +
 				"<li><a href=\"http://towncourier.com/proposed-apfo-amendment-suggests-local-fix-for-schools/\">150% overcrowding reported by Gaithersburg Courier Newspaper</a></li>" +
@@ -218,7 +219,19 @@ enyo.kind({
 				"<p>Please, don't be scared, if you have been harassed by the city please step forward and share your story. We can put an end to this type of abuse.</p>" +
 				"<p>If the city council was honest about this and cared to stop it, they would audit all dog bite reports and all child services calls. They would ask an independent party to analyze and report how many calls were fraudulent.</p>" + 
 				"<p>It happened to Aaron Rosenzweig. The city constantly harassed him and eventually threatened him with child support services taking his children away. Why? because someone in the greater community did not like their choice of pets. David and Faith Roseman used taxpayer resources to do the unthinkable all the while he drove by photographing Aaron's kids and flipping them &ldquo;the bird.&rdquo; David is a wealthy man, as treasurer of NARFE and United Seniors of Maryland, exerted influence and mafjia tactics rather than go through a process of public hearing. </p>" + 
-				"<p>When Aaron started testifying at public hearings, the harassment suddenly stopped but the city refuses to apologize and refuses to fix the problems in our code enforcement. Aaron has received email from the Mayor asking him to give up his right to free speech. The mayor, Jud Ashman, has even visited Aaron's home with the express purpose of saying &ldquo;Man to man, let sleeping dogs lie&rdquo; <a href=\"https://www.change.org/p/city-of-gaithersburg-maryland-lift-rooster-ban\">Learn Aaron's story</a></p>"
+				"<p>When Aaron started testifying at public hearings, the harassment suddenly stopped but the city refuses to apologize and refuses to fix the problems in our code enforcement. Aaron has received email from the Mayor asking him to give up his right to free speech. The mayor, Jud Ashman, has even visited Aaron's home with the express purpose of saying &ldquo;Man to man, let sleeping dogs lie&rdquo; </p>" + 
+				"Learn more: <ol>" +
+				"<li><a href=\"https://www.change.org/p/city-of-gaithersburg-maryland-lift-rooster-ban\">Aaron's story</a></li>" +
+				"<li><a href=\"http://liftroosterban.com\">Rooster collars</a></li>" +
+				"<li><a href=\"https://www.youtube.com/watch?v=Rd6hcfDNg1I\">Neighbors defending chickens</a></li>" +
+				"<li><a href=\"https://www.youtube.com/watch?v=m8v4kNg6OVk\">&ldquo;I have a dream&rdquo;</a></li>" +
+				"<li><a href=\"https://www.youtube.com/watch?v=j-f3fbdjIgQ\">The 2010 hearing (and Terri Cedrin's reaction)</a></li>" +
+				"<li><a href=\"https://www.youtube.com/watch?v=VI0L12a352Y\">&rdquo;Dude where's my car?&ldquo;</a></li>" +
+				"<li><a href=\"https://www.youtube.com/watch?v=qf-YOuQz8t0\">&ldquo;Nugget&rdquo; the rooster and the &rdquo;No bell peace prize&ldquo;</a></li>" +
+				"<li><a href=\"https://www.youtube.com/watch?v=FT9kHqWWgG4\">Gaithersburg vs Rockville</a></li>" +
+				"<li><a href=\"https://www.youtube.com/watch?v=vxrJfTp16wQ\">Abe Lincoln and Liberty</a></li>" +
+				"<li><a href=\"http://www.backyardchickens.com/t/942286/lifting-rooster-bans-city-hall-speech\">All the Gaithersburg speeches</a></li>" +
+				"</ol>"			
 				
 			}, 
 
@@ -229,6 +242,7 @@ enyo.kind({
 				"Learn more: <ol>" +
 				"<li><a href=\"http://wjla.com/news/local/tiny-home-causes-controversy-in-gaithersburg-99692\">See the Zuccarelli tiny house</a></li>" +
 				"<li><a href=\"http://www.countryliving.com/homes/real-estate/tiny-house\">44 impressive tiny houses</a></li>" +	
+				"<li><a href=\"http://tinyhouseva.com\">Built to order in Virginia</a></li>" + 
 				"</ol>"			
 				
 			}			
