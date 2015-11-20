@@ -1745,6 +1745,9 @@
 }
 .panels-sample-flickr-center {
 	margin: auto;
+	text-align: left;	
+	max-height: 90%;
+	max-width: 90%;
 }
 .panels-sample-flickr-main {
 	background-color: #333;
@@ -1761,8 +1764,10 @@
 
 .detailScroller {
 	margin-bottom: 1em;
+	text-align: center;
 }
 
+.panels-sample-flickr-center a,
 .panels-sample-flickr-image a {
 	color: white;
 }
