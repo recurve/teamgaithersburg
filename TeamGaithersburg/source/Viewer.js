@@ -144,6 +144,10 @@ enyo.kind({
 	showList: function() {
 		this.setIndex(0);
 	},
+	mailTo: function(email, subject, body) {
+		var mailLink = "<a href=\"mailto:" + email + "?bcc=aaron@chatnbike.com&amp;Subject=" + subject.replace("/ /g","%20") + "&body=" + body.replace("/ /g","%20") + "%0D%0A%0D%0A\">" + email + "</a>";
+		return mailLink;
+	},
 	loadGaithersburgData: function() {
 		this.results = [
 			{title: "Team Gaithersburg", 
@@ -174,7 +178,11 @@ enyo.kind({
 				"<li><a href=\"http://parentscoalitionmc.blogspot.com/2015/09/what-is-staff-confidence-level-that.html\">150% overcrowding reported by Parents' Coalition</a></li>" +
 				"<li><a href=\"http://gaithersburgmd.gov/~/media/city/documents/government/city_projects/ctam_7036_2015/exhibits_001_005.pdf\">150% overcrowding the actual changes to Gaithersburg regulations</a></li>" +
 				"<li><a href=\"http://gaithersburgmd.gov/~/media/city/documents/government/city_projects/ctam_7036_2015/exhibits_011_015.pdf\">150% overcrowding Gaithersburg's PowerPoint presentation</a></li>" +
-				"</ol>"			
+				"</ol>" + 
+				"<p>Voice your concerns: " + 
+					this.mailTo("cityhall@gaithersburgmd.gov", "Fix our schools", 
+					"I am against the 150% overcrowding you approved for our schools, I'm very upset, how could you do this to our community?") + 
+				"</p>"
 			}, 
 			
 			{title: "Stop Corridor Cities Transitway",
@@ -218,7 +226,7 @@ enyo.kind({
 				"<p>Have a parking spot that you fight over with your neighbor? Do you have a dog? Do you have kids? If you answered &ldquo;Yes&rdquo; to those questions then watch out. According to Lisa Holland, the director of Animal Control, your neighbor will say your dog bit them or that you spank your kids and the city will &ldquo;take care of it because that is what we do.&rdquo;</p>" + 
 				"<p>Please, don't be scared, if you have been harassed by the city please step forward and share your story. We can put an end to this type of abuse.</p>" +
 				"<p>If the city council was honest about this and cared to stop it, they would audit all dog bite reports and all child services calls. They would ask an independent party to analyze and report how many calls were fraudulent.</p>" + 
-				"<p>It happened to Aaron Rosenzweig. The city constantly harassed him and eventually threatened him with child support services taking his children away. Why? because someone in the greater community did not like their choice of pets. David and Faith Roseman used taxpayer resources to do the unthinkable all the while he drove by photographing Aaron's kids and flipping them &ldquo;the bird.&rdquo; David is a wealthy man, as treasurer of NARFE and United Seniors of Maryland, exerted influence and mafjia tactics rather than go through a process of public hearing. </p>" + 
+				"<p>It happened to Aaron Rosenzweig. The city constantly harassed him and eventually threatened him with child support services taking his children away. Why? because someone in the greater community did not like their choice of pets. David and Faith Roseman used taxpayer resources to do the unthinkable all the while he drove by photographing Aaron's kids and flipping them &ldquo;the bird.&rdquo; David is a wealthy man, as treasurer of NARFE and United Seniors of Maryland, exerted influence and underhanded tactics rather than go through a process of public hearing. </p>" + 
 				"<p>When Aaron started testifying at public hearings, the harassment suddenly stopped but the city refuses to apologize and refuses to fix the problems in our code enforcement. Aaron has received email from the Mayor asking him to give up his right to free speech. The mayor, Jud Ashman, has even visited Aaron's home with the express purpose of saying &ldquo;Man to man, let sleeping dogs lie&rdquo; </p>" + 
 				"Learn more: <ol>" +
 				"<li><a href=\"https://www.change.org/p/city-of-gaithersburg-maryland-lift-rooster-ban\">Aaron's story</a></li>" +
