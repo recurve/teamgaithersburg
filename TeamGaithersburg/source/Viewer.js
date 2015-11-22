@@ -248,13 +248,31 @@ enyo.kind({
 				"<p>Please, don't be scared, if you have been harassed by the city please step forward and share your story. We can put an end to this type of abuse.</p>" +
 				"<p>If the city council was honest about this and cared to stop it, they would audit all dog bite reports and all child services calls. They would ask an independent party to analyze and report how many calls were fraudulent.</p>" + 
 				"<p>It happened to Aaron Rosenzweig. The city constantly harassed him and eventually threatened him with child support services taking his children away. Why? because someone in the greater community did not like their choice of pets. David and Faith Roseman used taxpayer resources to do the unthinkable all the while he drove by photographing Aaron's kids and flipping them &ldquo;the bird.&rdquo; David is a wealthy man, as treasurer of NARFE and United Seniors of Maryland, exerted influence and underhanded tactics rather than go through a process of public hearing. </p>" + 
-				"<p>When Aaron started testifying at public hearings, the harassment suddenly stopped but the city refuses to apologize and refuses to fix the problems in our code enforcement. Aaron has received email from the Mayor asking him to give up his right to free speech. The mayor, Jud Ashman, has even visited Aaron's home with the express purpose of saying &ldquo;Man to man, let sleeping dogs lie.&rdquo; What does the City have to hide? Oh yes, here it is, the blog post that Mayor Ashman has deleted from his website: <a href=\"http://liftroosterban.com/file/Jud_Ashman_Roosters.pdf\">2010 Rooster ban was the one mistake the council made that year</a> - evidently Mayor Ashman actually is chicken to stand up for personal freedoms. </p>" + 
+				"<p>When Aaron started testifying at public hearings, the harassment suddenly stopped but the city refuses to apologize and refuses to fix the problems in our code enforcement.</p>" +  
+
+				"The city refuses to: <ol>" +
+				"<li>Grant Aaron a permit to keep a non-crowing rooster nor explain why they refuse to do so.</li>" +
+				"<li>Admit they made a mistake in 2010 when they changed our laws in a way that benefits nobody yet leads to conflict. Look at the <a href=\"assets/no_crowing_rooster.jpg\">2009 law</a> that was fair to everyone (scanned from ordinances Lisa Holland gave Aaron)</li>" +
+				"<li>Audit all dog bite claims in the last 5 years to determine how many were fraudulent abuse over trivial issues like car parking</li>" +
+				"<li>Publish the results of the city's secret investigation of Animal Control for all to see</li>" +
+				"<li>Explain what, if any, corrective action was taken to prevent future abuse of process</li>" +
+				"<li>Make a public apology for not respecting the Rosenzweig family as true citizens and forcing them to build a privacy fence.</li>" +
+				"</ol>"	+ 
+
+				
+				"<p>Aaron has received email from the Mayor asking him to give up his right to free speech. The mayor, Jud Ashman, has even visited Aaron's home with the express purpose of saying &ldquo;Man to man, let sleeping dogs lie.&rdquo; What does the City have to hide? Oh yes, here it is, the blog post that Mayor Ashman has deleted from his website: <a href=\"http://liftroosterban.com/file/Jud_Ashman_Roosters.pdf\">2010 Rooster ban was the one mistake the council made that year</a> </p>" + 
 				"Learn more: <ol>" +
 				"<li><a href=\"https://www.change.org/p/city-of-gaithersburg-maryland-lift-rooster-ban\">Aaron's story</a></li>" +
 				"<li><a href=\"http://liftroosterban.com\">Rooster collars</a></li>" +
 				"<li><a href=\"https://www.youtube.com/watch?v=Rd6hcfDNg1I\">Neighbors defending chickens</a></li>" +
 				"<li><a href=\"https://www.youtube.com/watch?v=m8v4kNg6OVk\">&ldquo;I have a dream&rdquo;</a></li>" +
-				"<li><a href=\"https://www.youtube.com/watch?v=U5SfVT-LRMY#t=2m43s\">Ryan &ldquo;Temper Tantrum&rdquo; Spiegel breaks radio silence</a></li>" +
+				"<li><a href=\"https://www.youtube.com/watch?v=U5SfVT-LRMY#t=2m43s\">Ryan &ldquo;Temper Tantrum&rdquo; Spiegel breaks radio silence</a>" + 
+					"<ol>" + 
+						"<li>Ryan phoned Aaron to say the city should have a hidden &ldquo;Standard Operating Procedure&rdquo; (SOP) to help guide city staff when issues of chickens arise and would include me in the discussion.</li>" + 
+						"<li>Aaron did not &ldquo;torpedo&rdquo; Ryan's idea. Here is the <a href=\"assets/SOP_ideas.pdf\">draft SOP document</a> Aaron gave to Ryan.</li>" + 
+						"<li>Note: Telling staff it's ok to have a chicken that looks like a rooster when there is no crowing... yet having a law that explicitly bans roosters... puts the city in a difficult situation.</li>" + 
+					"</ol>" + 
+				"</li>" +
 				"<li><a href=\"http://www.thesentinel.com/mont/index.php?option=com_k2&view=item&id=1985:a-big-clucking-problem-in-gaithersburg&Itemid=321\">&ldquo;Big Clucking&rdquo; problem in Gaithersburg</a></li>" +				
 				"<li><a href=\"https://www.youtube.com/watch?v=j-f3fbdjIgQ\">The 2010 hearing (and Terri Cedrin's reaction)</a></li>" +
 				"<li><a href=\"https://www.youtube.com/watch?v=VI0L12a352Y\">&rdquo;Dude where's my car?&ldquo;</a></li>" +
