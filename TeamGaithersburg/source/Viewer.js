@@ -254,6 +254,7 @@ enyo.kind({
 				"<li><a href=\"http://liftroosterban.com\">Rooster collars</a></li>" +
 				"<li><a href=\"https://www.youtube.com/watch?v=Rd6hcfDNg1I\">Neighbors defending chickens</a></li>" +
 				"<li><a href=\"https://www.youtube.com/watch?v=m8v4kNg6OVk\">&ldquo;I have a dream&rdquo;</a></li>" +
+				"<li><a href=\"https://www.youtube.com/watch?v=U5SfVT-LRMY#t=2m43s\">Ryan &ldquo;Temper Tantrum&rdquo; Spiegel breaks radio silence</a></li>" +
 				"<li><a href=\"https://www.youtube.com/watch?v=j-f3fbdjIgQ\">The 2010 hearing (and Terri Cedrin's reaction)</a></li>" +
 				"<li><a href=\"https://www.youtube.com/watch?v=VI0L12a352Y\">&rdquo;Dude where's my car?&ldquo;</a></li>" +
 				"<li><a href=\"https://www.youtube.com/watch?v=qf-YOuQz8t0\">&ldquo;Nugget&rdquo; the rooster and the &rdquo;No bell peace prize&ldquo;</a></li>" +
