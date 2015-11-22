@@ -34,7 +34,9 @@ enyo.kind({
 			{fit: true, style: "position: relative;", name: "detailScroller", kind: enyo.Scroller, classes: "detailScroller", components: [
 				{name: "topicImage", kind: "Image", showing: false,  
 					classes: "panels-sample-flickr-center"},
-				{name: "topicDetails", allowHtml: true, showing: false, classes: "panels-sample-flickr-center"}
+				{name: "topicDetails", allowHtml: true, showing: false, classes: "panels-sample-flickr-center"},
+				{name: "topicFooterImage", kind: "Image", showing: false,  
+					classes: "panels-sample-flickr-center"}
 			
 				/*{name: "flickrImage", kind: "Image", showing: false, onload: "imageLoaded", onerror: "imageLoaded", 
 					classes: "enyo-fit panels-sample-flickr-center panels-sample-flickr-image"},*/
@@ -116,6 +118,13 @@ enyo.kind({
 		this.$.topicDetails.setContent(item.details || "Untitled");
 		this.$.topicDetails.show();
 		
+		if (item.topicFooterImage) {
+			this.$.topicFooterImage.setSrc(item.topicFooterImage);
+			this.$.topicFooterImage.show();
+		} else {
+			this.$.topicFooterImage.hide();
+		}
+		
 		this.$.detailScroller.scrollTo(0, 0);
 		
 		/*
@@ -152,6 +161,7 @@ enyo.kind({
 		this.results = [
 			{title: "Team Gaithersburg", 
 				detailsImage: "assets/team_drink.jpg",
+				topicFooterImage: "assets/together_we_can.jpg",
 				details: "<p>Team Gaithersburg</p>" +
 				"<p>When citizens become neighbors they can create an impact.</p>" + 
 				"<p>Saddened by the status quo, we are a group of concerned neighbors demanding change. We want to find out what happens when an irresistible force (neighbors united) meets an immovable object (local government). When the dust settles, we'll learn nothing is truly irresistible nor immovable, things only appear that way until you dig into the root cause. It's time to hold our local government accountable. It's time to stop letting career politicians use their time governing our great city as merely a stepping stone on their way to the Senate. Leading our city means more than embellishing their resume, they must work to enhance our quality of life. </p>" + 
@@ -243,6 +253,7 @@ enyo.kind({
 
 			{title: "Control &ldquo;Animal Control&rdquo;", 
 				detailsImage: "assets/animal_control.jpg",
+				topicFooterImage: "assets/gallina_gnomo.jpg",
 				details: "<p>City resources are being used to harass citizens but local government has done nothing to prevent it. If you don’t like someone, you can use taxpayer resources to wreak havoc on the innocent.</p>" + 
 				"<p>Have a parking spot that you fight over with your neighbor? Do you have a dog? Do you have kids? If you answered &ldquo;Yes&rdquo; to those questions then watch out. According to Lisa Holland, the director of Animal Control, your neighbor will say your dog bit them or that you spank your kids and the city will &ldquo;take care of it because that is what we do.&rdquo;</p>" + 
 				"<p>Please, don't be scared, if you have been harassed by the city please step forward and share your story. We can put an end to this type of abuse.</p>" +

@@ -46,7 +46,7 @@
 .panels-sample-flickr-center {
 	margin: auto;
 	text-align: left;	
-	max-height: 90%;
+	/*max-height: 90%;*/
 	max-width: 90%;
 }
 .panels-sample-flickr-main {
