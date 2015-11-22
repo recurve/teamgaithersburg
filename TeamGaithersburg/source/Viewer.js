@@ -260,6 +260,9 @@ enyo.kind({
 				"<li><a href=\"https://www.youtube.com/watch?v=vxrJfTp16wQ\">Abe Lincoln and Liberty</a></li>" +
 				"<li><a href=\"http://www.backyardchickens.com/t/942286/lifting-rooster-bans-city-hall-speech\">All the Gaithersburg speeches</a></li>" +
 				"</ol>"	+ 
+				"Official response from City government: <ol>" +
+				"<li><a href=\"assets/city_letter_cease_and_desist.pdf\">Cease and desist letter (Aaron, we don't care, go away)</a></li>" +
+				"</ol>"	+ 
 				"<p>Voice your concerns: " + 
 					this.mailTo("cityhall@gaithersburgmd.gov", "Animal Control", 
 					"What you have done to the Rosenzweig family is outrageous. They have not bothered anyone: not with noise, not with smell, not with anything. It is not reasonable to harass them. You are on a power trip by not providing them with permit to own a prohibited animal considering all that you've done. The fact that city staff gloat about abuse of process, yet you have done nothing to prevent future abuse, is simply appalling. ") + 
