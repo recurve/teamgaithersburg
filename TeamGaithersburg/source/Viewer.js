@@ -159,7 +159,11 @@ enyo.kind({
 				"<p>When you cannot get the simple issues right… like coming to someone’s home when they ask for help, forcing them to make a public spectacle before they leave you alone… digging in their heels and refusing to make amends… that’s when you realize that there is no hope in getting the &ldquo;big&rdquo; issues right such as our schools and transportation. The entire purpose of having a &ldquo;city&rdquo; is so we can have more control than what the county allows us. If we are nothing more than a &ldquo;yes-man&rdquo; for the county, there is little point in having a city. Our city taxes are only useful when we mobilize to create a difference we can feel in our quality of life. Things like leaf and and branch pickup are a useful benefit. </p>" + 
 				"<p>Who are we? Anyone can join us and bring up issues that must be addressed and resolved which aren't getting the attention they deserve.</p>" +
 				"<h2>We welcome our city council to respond to our concerns. We will post their official stance on each line item if and when we receive them.</h2>" + 
-				"<p>Aaron Rosenzweig <a href=\"mailto:aaron@chatnbike.com\">aaron@chatnbike.com</a> - I'm a working family man who never really cared about city politics until he was directly impacted by it, now I know too much about the realities of our local government. The city threatened to take our children away with child protective services because a wealthy citizen didn't like our choice of pets. I refuse to sit idly by while our way of life is ruined. I'm not chicken to speak the truth, even when it hurts. <a href=\"https://www.change.org/p/city-of-gaithersburg-maryland-lift-rooster-ban\">Learn my story</a></p>"
+				"<p>Aaron Rosenzweig <a href=\"mailto:aaron@chatnbike.com\">aaron@chatnbike.com</a> - I'm a working family man who never really cared about city politics until he was directly impacted by it, now I know too much about the realities of our local government. The city threatened to take our children away with child protective services because a wealthy citizen didn't like our choice of pets. I refuse to sit idly by while our way of life is ruined. I'm not chicken to speak the truth, even when it hurts. <a href=\"https://www.change.org/p/city-of-gaithersburg-maryland-lift-rooster-ban\">Learn my story</a></p>"  + 
+				"<p>Voice your concerns: " + 
+					this.mailTo("cityhall@gaithersburgmd.gov", "Team Gaithersburg", 
+					"I support TeamGaithersburg.org and will also hold you accountable for your actions (and inactions)") + 
+				"</p>"
 			}, 
 			
 			{title: "Fix our schools",
@@ -181,7 +185,7 @@ enyo.kind({
 				"</ol>" + 
 				"<p>Voice your concerns: " + 
 					this.mailTo("cityhall@gaithersburgmd.gov", "Fix our schools", 
-					"I am against the 150% overcrowding you approved for our schools, I'm very upset, how could you do this to our community?") + 
+					"I am against the 150% overcrowding you approved for our schools. I'm very upset, how could you do this to our community?") + 
 				"</p>"
 			}, 
 			
@@ -196,12 +200,20 @@ enyo.kind({
 				"<li><a href=\"http://beyonddc.com/log/?p=73\">Beyond DC</a></li>" +	
 				"<li><a href=\"http://wpo.st/aHen0\">Independent Transit Authority - taxing without a hearing</a></li>" + 
 				"<li><a href=\"https://www.facebook.com/sensibleCCT/?fref=ts\">Sensible CCT</a></li>" + 
-				"</ol>"			
+				"</ol>"	+ 
+				"<p>Voice your concerns: " + 
+					this.mailTo("cityhall@gaithersburgmd.gov", "Stop the CCT", 
+					"I do not want the CCT. I believe it will create more congestion and raise our taxes for no good reason. Better to spend that money fixing our schools. Please prevent the CCT from passing through Gaithersburg. ") + 
+				"</p>"
 				},
 
 			{title: "Revitalize Olde Towne", 
 				detailsImage: "assets/olde_towne.jpg",
-				details: "<p>Not enough love in revitalizing our Olde Towne. Local government says they’ll improve Olde Towne but always go for new development instead.</p>" 
+				details: "<p>Not enough love in revitalizing our Olde Towne. Local government says they’ll improve Olde Towne but always go for new development instead.</p>" 	+ 
+				"<p>Voice your concerns: " + 
+					this.mailTo("cityhall@gaithersburgmd.gov", "Revitalize Olde Towne First", 
+					"Olde Towne needs help. I want you to stop developing other parts of Gaithersburg until you put effort into Olde Towne. ") + 
+				"</p>"
 			}, 
 			
 			{title: "Overdevelopment", 
@@ -211,13 +223,21 @@ enyo.kind({
 				"<p> How do we want our city to feel, what quality of life is important to us? This is a conversation we must have before it is too late</p>" + 
 				"Learn more: <ol>" +
 				"<li><a href=\"http://towncourier.com/concerned-residents-testify-against-johnson-annexation/\">Gaithersburg wants to annex another 25 acres to create more housing and tax revenue to continue overcrowding our schools</a></li>" +
-				"</ol>"			
+				"</ol>"	+
+				"<p>Voice your concerns: " + 
+					this.mailTo("cityhall@gaithersburgmd.gov", "Overdevelopment", 
+					"Our City has no debt, so why do you continuously push for overdevelopment? Are our tax dollars not enough for you that you must find new residents? Why do you even entertain the thought of the Johnson annexation? That will only overcrowd our schools and create even more congestion. Let the county do what it will but cease and desist the overdevelopment of Gaithersburg. ") + 
+				"</p>"				
 			}, 
 
 			{title: "Dog Park repurposed", 
 				detailsImage: "assets/dogpark.jpg",
 				details: "<p>Our local government changed the rules for our dog park without involving our citizens. Their end game is to reduce usage so that they can &rdquo;repurpose it for something else.&ldquo;</p>" +
-				"<p>Friendships were broken. People who used to go to the park were kicked out. I guess we are just running out of green space. Listen to how the City Manager says: &ldquo;usage just goes down so we can repurpose the dog park for something else&rdquo;: <a href=\"https://www.youtube.com/watch?v=j-f3fbdjIgQ#t=3m33s\">watch the video</a>"
+				"<p>Friendships were broken. People who used to go to the park were kicked out. I guess we are just running out of green space. Listen to how the City Manager says: &ldquo;usage just goes down so we can repurpose the dog park for something else&rdquo;: <a href=\"https://www.youtube.com/watch?v=j-f3fbdjIgQ#t=3m33s\">watch the video</a>" +
+				"<p>Voice your concerns: " + 
+					this.mailTo("cityhall@gaithersburgmd.gov", "Dog Park", 
+					"I am appalled by your secret motives for the dog park. It is egregious that you did not look for citizen input before you changed the rules for the dog park. You are not doing what I expect from you. ") + 
+				"</p>"				
 			}, 
 
 			{title: "Control &ldquo;Animal Control&rdquo;", 
@@ -239,7 +259,11 @@ enyo.kind({
 				"<li><a href=\"https://www.youtube.com/watch?v=FT9kHqWWgG4\">Gaithersburg vs Rockville</a></li>" +
 				"<li><a href=\"https://www.youtube.com/watch?v=vxrJfTp16wQ\">Abe Lincoln and Liberty</a></li>" +
 				"<li><a href=\"http://www.backyardchickens.com/t/942286/lifting-rooster-bans-city-hall-speech\">All the Gaithersburg speeches</a></li>" +
-				"</ol>"			
+				"</ol>"	+ 
+				"<p>Voice your concerns: " + 
+					this.mailTo("cityhall@gaithersburgmd.gov", "Animal Control", 
+					"What you have done to the Rosenzweig family is outrageous. They have not bothered anyone: not with noise, not with smell, not with anything. It is not reasonable to harass them. You are on a power trip by not providing them with permit to own a prohibited animal considering all that you've done. The fact that city staff gloat about abuse of process, yet you have done nothing to prevent future abuse, is simply appalling. ") + 
+				"</p>"
 				
 			}, 
 
@@ -251,8 +275,11 @@ enyo.kind({
 				"<li><a href=\"http://wjla.com/news/local/tiny-home-causes-controversy-in-gaithersburg-99692\">See the Zuccarelli tiny house</a></li>" +
 				"<li><a href=\"http://www.countryliving.com/homes/real-estate/tiny-house\">44 impressive tiny houses</a></li>" +	
 				"<li><a href=\"http://tinyhouseva.com\">Built to order in Virginia</a></li>" + 
-				"</ol>"			
-				
+				"</ol>"	+ 
+				"<p>Voice your concerns: " + 
+					this.mailTo("cityhall@gaithersburgmd.gov", "Tiny House Legalization", 
+					"I would like to explore and learn more about Tiny Houses. I would like to see the inside of Darline's Tiny House. I wish you would look at the excitement around Tiny Houses across the country and see this as an opportunity to lead by example. ") + 
+				"</p>"				
 			}			
 				
 		];
