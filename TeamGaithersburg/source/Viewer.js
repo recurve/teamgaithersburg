@@ -318,6 +318,8 @@ enyo.kind({
 				"<p>Luna's death could have been prevented. Luna did not have to die. To say &ldquo;no-one took our chickens&rdquo; is technically true but in a very cruel way. The city constantly threatened to take our chickens and even when we bent over backwards to comply with their illegal demands, the city never cut us any slack. Remember, these animals were kept clean and enjoyed by most people in the community. We abided by all ordinances handed to us on official pink parchment by the director of Animal Control.</p>" +
 				"<p>Luna, we wished we let you spend the nights in our home even without a diaper until the fence was complete. We are sorry to have let you down. You were a magnificent creature and a dear part of our family. You are missed and not forgotten. </p>" +
 				"Learn about meat animals kept as pets: <ol>" +
+				"<li><a href=\"https://www.youtube.com/watch?v=mMz6xAfkQeU\">Purring chicken baby</a></li>" + 
+				"<li><a href=\"https://www.youtube.com/watch?v=fxzo14pMxiM\">Cuddling rooster</a></li>" + 
 				"<li><a href=\"http://upc-online.org/pp/winter2012/peeper.html\">&ldquo;Peeper&rdquo; the turkey</a></li>" +
 				"<li><a href=\"http://www.mypetchicken.com/about-chickens/chicken-pictures/Frizzle-the-litterbox-trained-rooster-X109.aspx\">&ldquo;Frizzle&rdquo; the litterbox-trained rooster</a></li>" +	
 				"<li><a href=\"https://www.youtube.com/watch?v=M5H7uMq3mS8\">Oops I let the cow in...</a></li>" + 
