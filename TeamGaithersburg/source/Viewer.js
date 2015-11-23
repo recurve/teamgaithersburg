@@ -303,10 +303,35 @@ enyo.kind({
 				
 			}, 
 
+			{title: "Luna Memorial", 
+				detailsImage: "assets/luna_in_sunlight.jpg",
+				topicFooterImage: "assets/ripken_luna.jpg",
+				details: "<p>&ldquo;Luna&rdquo; was a beautiful Black Marans chicken from France. Yes, this is the kind that lays chocolate eggs. Luna's red bits glowed crimson. Luna's black feathers were such a deep hue that they shined with green iridescence in the bright rays of the sun. The name, &ldquo;Luna,&rdquo; means moon. Why is it that the stars which shine twice as bright shine half as long? Luna is no longer of this earth. </p>" + 
+				"<p>Luna never crowed, never created a nuisance. Luna's only crime was the fact that Luna lived and breathed in Gaithersburg. Some people just cannot accept that people can love chickens, or that chickens could love you back.</p>" + 
+				"<p>When Ryan Spiegel said: <a href=\"https://www.youtube.com/watch?v=U5SfVT-LRMY#t=4m19s\">&ldquo;no-one has taken any of his chickens&rdquo;</a> he was incorrect. Ryan never wanted to learn the depths of what happened to Aaron's family. Aaron begged him, and other council members, to visit their home but no-one ever did. Perhaps because <a href=\"https://www.youtube.com/watch?v=lWxaU-eLqps#t=2m03s\">Ryan had chickens</a> he thought he knew everything. </p>" + 
+				"<p>In 2010 Ryan and the rest of the council decided that the ban only on crowing roosters was not enough, they must ban all roosters, pigs, goats, etc. They reasoned that people only want chickens for eggs. What they didn't realize is that now they have to <a href=\"https://www.youtube.com/watch?v=N3CeP2w3UoA\">figure out what is a rooster</a> and what is not even when there is no noise nuisance. Additionally, if you are getting chickens &ldquo;for eggs&rdquo; then you are doing it for the wrong reasons. Just go to the store to get eggs, or go to the Agricultural Reserve to get local eggs. You get chickens because you want a companion, it's that simple. Roosters make great pets and don't crow any more than a dog barks and it is fully controllable in more humane ways than dogs. Does your dog or cat give you eggs? Does that make them useless?</p>" + 
+				"<p>The city constantly harassed us. First telling us we simply could not have chickens &ldquo;in the city&rdquo;... all the way to saying &ldquo;that is a rooster, I take him now or give you fines and citations.&rdquo; Only through the help of Sylvester Ferguson, the only city staff member with a heart, could we keep our chickens but only if we built a privacy fence and kept them permanently invisible to the world. (Note: A fence is not required in any of our written ordinances) Why are chickens &ldquo;wrong&rdquo; and hidden in shame instead of &ldquo;cool&rdquo; and accepted?</p>" + 
+				"<p>Scrambling, within a week of this verbal agreement, Aaron's family started building the privacy fence. We had also ordered <a href=\"https://www.youtube.com/watch?v=8fbEEXrbKdg#t=1m55s\">chicken diapers</a>. The fence was half complete when Jorge Esmieu, of the city's Animal Control division, came again ranting and wanting to take the chickens. He simply could not wait until the fence was complete. Reluctantly we moved them into the half completed area.</p>" + 
+				"<p>A fence is not a safe idea. Burglars love a fence, because nobody can see them breaking into a house. The same is true of foxes, they love half completed fences. </p>" + 
+				"<p>When the coop was in the front yard, the motion sensors and video cameras only captured humans and rabbits investigating the chickens. Never a fox, never a raccoon. It is too conspicuous so the fox wouldn't even try. </p>" + 
+				"<p>Luna and friends live in a fortress, a fox cannot break in. Still, the fox tried to break in and literally scared Luna to death. Aaron's family had a necropsy performed on Luna's body. The official cause of death was that the heart just suddenly stopped beating. Luna was in good health, just could not take the emotional stress of moving to a new location and then confronting a fox. Ironically, Luna's diaper arrived the day after Luna's death. </p>" + 
+				"<p>Luna's death could have been prevented. Luna did not have to die. To say &ldquo;no-one took our chickens&rdquo; is technically true but in a very cruel way. The city constantly threatened to take our chickens and even when we bent over backwards to comply with their illegal demands, the city never cut us any slack. Remember, these animals were kept clean and enjoyed by most people in the community. We abided by all ordinances handed to us on official pink parchment by the director of Animal Control.</p>" +
+				"<p>Luna, we wished we let you spend the nights in our home even without a diaper until the fence was complete. We are sorry to have let you down. You were a magnificent creature and a dear part of our family. You are missed and not forgotten. </p>" +
+				"Learn about poultry kept as pets: <ol>" +
+				"<li><a href=\"http://upc-online.org/pp/winter2012/peeper.html\">&ldquo;Peeper&rdquo; the turkey</a></li>" +
+				"<li><a href=\"http://www.mypetchicken.com/about-chickens/chicken-pictures/Frizzle-the-litterbox-trained-rooster-X109.aspx\">Frizzle the litterbox-trained rooster</a></li>" +	
+				"</ol>"	+ 
+				"<p>Voice your concerns: " + 
+					this.mailTo("cityhall@gaithersburgmd.gov", "A chicken named Luna", 
+					"All life has value, even a chicken's. You should apologize for Luna's senseless death. ") + 
+				"</p>"				
+			}, 
+
+
 			{title: "Tiny House Legalization", 
 				detailsImage: "assets/tiny-house-2.jpg",
 				details: "<p>Across the country Americans are learning they can create their own dream homes on a small scale. They create pride of ownership and live debt-free. Local government prevents our citizens this freedom out of spite and ignorance.</p>" + 
-				"<p>Zuccarelli built a tiny house in her 0.5 acre property but the City condemned it because of zoning. They say it is illegal to have two single family homes in one plat of land. What is the purpose of this zoning? Zucarrelli's little house doesn't compete with the landscape and isn't even visible from the road. Is this just a power play, preventing Zuccarelli the freedom of using her land to the fullest? We think so. " + 
+				"<p>Zuccarelli built a tiny house in her 0.5 acre property but the City condemned it because of zoning. They say it is illegal to have two single family homes in one plat of land. What is the purpose of this zoning? Zucarrelli's little house doesn't compete with the landscape and isn't even visible from the road. Is this just a power play, preventing Zuccarelli the freedom of using her land to the fullest? We think so. </p>" + 
 				"Learn more: <ol>" +
 				"<li><a href=\"http://wjla.com/news/local/tiny-home-causes-controversy-in-gaithersburg-99692\">See the Zuccarelli tiny house</a></li>" +
 				"<li><a href=\"http://www.countryliving.com/homes/real-estate/tiny-house\">44 impressive tiny houses</a></li>" +	
@@ -317,6 +342,7 @@ enyo.kind({
 					"I would like to explore and learn more about Tiny Houses. I would like to see the inside of Darline's Tiny House. I wish you would look at the excitement around Tiny Houses across the country and see this as an opportunity to lead by example. ") + 
 				"</p>"				
 			}			
+			
 				
 		];
 	}
