@@ -323,6 +323,7 @@ enyo.kind({
 				"<li><a href=\"http://upc-online.org/pp/winter2012/peeper.html\">&ldquo;Peeper&rdquo; the turkey</a></li>" +
 				"<li><a href=\"http://www.mypetchicken.com/about-chickens/chicken-pictures/Frizzle-the-litterbox-trained-rooster-X109.aspx\">&ldquo;Frizzle&rdquo; the litterbox-trained rooster</a></li>" +	
 				"<li><a href=\"https://www.youtube.com/watch?v=M5H7uMq3mS8\">Oops I let the cow in...</a></li>" + 
+				"<li><a href=\"https://www.youtube.com/watch?v=6c_rhF2TfsI\">Pig in the city</a></li>" + 
 				"</ol>"	+ 
 				"<p>Voice your concerns: " + 
 					this.mailTo("cityhall@gaithersburgmd.gov", "A chicken named Luna", 
@@ -339,6 +340,7 @@ enyo.kind({
 				"<li><a href=\"http://wjla.com/news/local/tiny-home-causes-controversy-in-gaithersburg-99692\">See the Zuccarelli tiny house</a></li>" +
 				"<li><a href=\"http://www.countryliving.com/homes/real-estate/tiny-house\">44 impressive tiny houses</a></li>" +	
 				"<li><a href=\"http://tinyhouseva.com\">Built to order in Virginia</a></li>" + 
+				"<li><a href=\"http://www.ted.com/talks/alastair_parvin_architecture_for_the_people_by_the_people?language=en\">Architecture for the people by the people</a></li>" + 
 				"</ol>"	+ 
 				"<p>Voice your concerns: " + 
 					this.mailTo("cityhall@gaithersburgmd.gov", "Tiny House Legalization", 
