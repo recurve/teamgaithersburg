@@ -176,6 +176,31 @@ enyo.kind({
 				"</p>"
 			}, 
 			
+			{title: "Public Comments", 
+				detailsImage: "assets/comments.jpg",
+				details: "<p>City Hall: 31 S Summit Ave, Gaithersburg, MD 20877</p>" + 
+				"<p>Please come to City Hall and attend a meeting. Even if you don't speak at the meeting every neighbor should go to City Hall at least once to know what it is about. Honestly, hardly anyone ever attends these meetings, that is why bad things happen because few people are watching. </p>" + 
+				"<p>Generally the public is allowed to speak for 3 minutes about any topic. This is only allowed twice a month on both the first and third mondays of the month. Note: It's not a perfect rule. If a holiday falls on one of those Mondays the city will often move the meeting to another day, like a Tuesday.</p>" + 
+				"<p>You will want to find meetings named &ldquo;Mayor and City Council Regular Session&rdquo; - When you view the online &ldquo;Agenda&rdquo; there will be a section named &ldquo;public comments.&rdquo; Use <a href=\"http://www.gaithersburgmd.gov/government/meeting-agendas-and-minutes\">this link to published Gaithersburg city meetings</a> to double check the dates. Note: you have to scroll down to the bottom of the page and &ldquo;wait&rdquo; for about 5 seconds before the meetings and dates will appear. It is a technical issue, the website is not designed all that well. </p>" + 
+				"<p>Voice your concerns: " + 
+					this.mailTo("cityhall@gaithersburgmd.gov", "Team Gaithersburg", 
+					"I plan to attend the next City Hall Meeting") + 
+				"</p>" + 
+				"<p>Right now Gaithersburg schools do not belong to the city, they belong to the county and are managed by Montgomery County Public Schools. If you want to advocate for serious change in our city schools, you must attend the County Board of Education meetings.</p>" + 
+				"<p>How Montgomery Board of Education public comments work (aka: BOE):</p>" +
+				"<ol>" + 
+				"<li>Look at the bottom of this page for a calendar: <a href=\"http://www.montgomeryschoolsmd.org/boe/meetings/\">BOE calendar</a></li>" + 
+				"<li>Look for &ldquo;All-day Business Meeting&rdquo; or &ldquo;Evening Business Meeting&rdquo;</li>" + 
+				"<li>Register the Monday of that week to get one of fifteen 3 minute time slots. Registration opens that Monday at 11:00 am, phone this number for Board of Education: 301-279-3617</li>" + 
+				"<li>Look the &ldquo;Friday before&rdquo; the date of the session to see the finalized agenda</li>" + 
+				"<li>Read and understand the &ldquo;Public Comments at Board Meetings&rdquo; portion of this page: <a href=\"http://www.montgomeryschoolsmd.org/boe/community/participation.aspx\">community participation</a></li>" + 
+				"</ol>" + 
+				"<p>Voice your concerns: " + 
+					this.mailTo("boe@mcpsmd.org", "Team Gaithersburg", 
+					"I plan to attend the next Board of Education meeting") + 
+				"</p>"				
+			}, 
+
 			{title: "Fix our schools",
 				detailsImage: "assets/SchoolOvercrowding.jpg",
 				details: "<p>Overcrowded and 150% overcapacity. New housing development continues. This is hurting our private housing values and our children deserve better.</p>" + 
