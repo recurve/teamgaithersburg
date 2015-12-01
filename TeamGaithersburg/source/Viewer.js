@@ -345,6 +345,7 @@ enyo.kind({
 				"Learn about meat animals kept as pets: <ol>" +
 				"<li><a href=\"https://www.youtube.com/watch?v=mMz6xAfkQeU\">Purring chicken baby</a></li>" + 
 				"<li><a href=\"https://www.youtube.com/watch?v=fxzo14pMxiM\">Cuddling rooster</a></li>" + 
+				"<li><a href=\"https://www.youtube.com/watch?v=qK65zRZlEkE\">Gorgeous pets, not food</a></li>" + 
 				"<li><a href=\"http://upc-online.org/pp/winter2012/peeper.html\">&ldquo;Peeper&rdquo; the turkey</a></li>" +
 				"<li><a href=\"http://www.mypetchicken.com/about-chickens/chicken-pictures/Frizzle-the-litterbox-trained-rooster-X109.aspx\">&ldquo;Frizzle&rdquo; the litterbox-trained rooster</a></li>" +	
 				"<li><a href=\"https://www.youtube.com/watch?v=M5H7uMq3mS8\">Oops I let the cow in...</a></li>" + 
