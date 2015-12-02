@@ -348,6 +348,8 @@ enyo.kind({
 				"<li><a href=\"https://www.youtube.com/watch?v=qK65zRZlEkE\">Gorgeous pets, not food</a></li>" + 
 				"<li><a href=\"http://upc-online.org/pp/winter2012/peeper.html\">&ldquo;Peeper&rdquo; the turkey</a></li>" +
 				"<li><a href=\"http://www.mypetchicken.com/about-chickens/chicken-pictures/Frizzle-the-litterbox-trained-rooster-X109.aspx\">&ldquo;Frizzle&rdquo; the litterbox-trained rooster</a></li>" +	
+				"<li><a href=\"https://www.youtube.com/watch?v=GNv_X7wCge0\">Chicken sweaters</a></li>" + 
+				"<li><a href=\"https://www.youtube.com/watch?v=0c_z9gaobgU\">Chicken diapers</a></li>" + 
 				"<li><a href=\"https://www.youtube.com/watch?v=M5H7uMq3mS8\">Oops I let the cow in...</a></li>" + 
 				"<li><a href=\"https://www.youtube.com/watch?v=6c_rhF2TfsI\">Pig in the city</a></li>" + 
 				"</ol>"	+ 
