@@ -352,6 +352,7 @@ enyo.kind({
 				"<li><a href=\"https://www.youtube.com/watch?v=0c_z9gaobgU\">Chicken diapers</a></li>" + 
 				"<li><a href=\"https://www.youtube.com/watch?v=M5H7uMq3mS8\">Oops I let the cow in...</a></li>" + 
 				"<li><a href=\"https://www.youtube.com/watch?v=6c_rhF2TfsI\">Pig in the city</a></li>" + 
+				"<li><a href=\"https://youtu.be/jU16HUCDYm8\">Nana the poker playing chicken</a></li>" + 
 				"</ol>"	+ 
 				"<p>Voice your concerns: " + 
 					this.mailTo("cityhall@gaithersburgmd.gov", "A chicken named Luna", 
