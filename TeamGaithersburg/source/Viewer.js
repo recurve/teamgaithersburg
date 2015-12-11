@@ -207,9 +207,12 @@ enyo.kind({
 				"<p>In 2015 our local government voted to increase our overcapacity limits from 110% to 150% so that more houses can be built. This means 1/3 of students will be in temporary structures outside of the main school building. It's very shortsighted. The city gets immediate revenue from more citizens moving in which creates more tax dollars for them to spend. In the long run our house values will be hurt because good families do not want to move into a city with overcrowded schools.</p>" + 
 				"<p>Our city council says they've done well because there is a special tax they'll collect when developers build housing that causes overcrowding. Interesting! but nowhere can we find that the amount of tax they raise from developers is enough to do anything with. To make matters worse, there is no direction on how and when that money will be spent other than if it is not spent, it will go back to the housing developers.</p>" + 
 				"<p>It is obvious that our local government is either unwilling or unable to improve our schools. Something has to change.</p>" + 
+				"<p>The county simply does not have the funding to build schools as fast as Gaithersburg is building housing. </p>" + 
 				"<p>We should look into what it would take to break off from MCPS (Montgomery County Public Schools). How much will it cost to buy the current buildings from MCPS and roll our own school system? </p> " + 
 				"<p>The county is determined to raise our taxes on a bus system called the CCT (Corridor Cities Transitway) in addition to the Ride-On buses we already have which are hardly used. Why not cancel the CCT and spend the money on our schools? If you think education is expensive, try ignorance. </p>" + 
 				"Learn more: <ol>" +
+				"<li><a href=\"https://youtu.be/tOp-WSPS3Xs\">The county is straight with us. The county does not have enough money to build more schools. Gaithersburg will not get any schools built and children will be bussed out of Gaithersburg. We are building houses too fast.</a></li>" +
+				"<li><a href=\"https://youtu.be/-6eQLflMvUA\">Gaithersburg has plenty of cash, but we aren't investigating how we can build more schools with it, we'd rather the county do that but that's not practical.</a></li>" +
 				"<li><a href=\"https://www.youtube.com/watch?v=j-f3fbdjIgQ#t=22m30s\">Watch Council Member Neil Harris prevent our neighbors from voicing their ideas about school overcrowding and Aaron asking him to be a man</a></li>" + 
 				"<li><a href=\"http://mcpsmd.swagit.com/play/11122015-1062\">See our council talk and talk at county board meetings but nothing ever happens</a></li>" +
 				"<li><a href=\"http://thesentinel.com/mont/newsx/local/item/2384-gaithersburg-studies-adequate-public-facilities-ordinance\">150% overcrowding reported by Sentinel Newspaper</a></li>" +
@@ -218,6 +221,7 @@ enyo.kind({
 				"<li><a href=\"http://gaithersburgmd.gov/~/media/city/documents/government/city_projects/ctam_7036_2015/exhibits_001_005.pdf\">150% overcrowding the actual changes to Gaithersburg regulations</a></li>" +
 				"<li><a href=\"http://gaithersburgmd.gov/~/media/city/documents/government/city_projects/ctam_7036_2015/exhibits_011_015.pdf\">150% overcrowding Gaithersburg's PowerPoint presentation</a></li>" +
 				"<li><a href=\"http://thesentinel.com/mont/newsx/local/item/2779-mcps-students-perform-poorly-on-state-tests\">More than half of the students in Montgomery County failed the state's math exam. I wonder why? Maybe because we value business interests rather than our children's interests?</a></li>" +
+				"<li><a href=\"http://www.boarddocs.com/mabe/mcpsmd/Board.nsf/goto?open&id=A4YSFH63C580\">Aaron thanks the school system for allowing modern keyboards on standardized tests (PDF is there and TV Icon shows video of speech)</a></li>" +
 				"</ol>" + 
 				"<p>Voice your concerns: " + 
 					this.mailTo("cityhall@gaithersburgmd.gov", "Fix our schools", 
@@ -232,6 +236,7 @@ enyo.kind({
 				"<p>No citizen wants the CCT, it is a power play by developers and politicians. First the CCT must be built and then Johns Hopkins will destroy Belward Farm on Muddy Branch. Our neighbor whose house will be taken during the widening of Muddy Branch is now stuck and cannot retire! They told him they would take his house in 2016, then they said 2018, now they say they are not sure when because they have no money. He has no way to sell his home and continue his life.</p>" + 
 				"<p>To finish this project the county will have to raise taxes. They have tried to create a special task force called the &ldquo;Independent Transit Authority&rdquo; which would have the authority to create whatever tax hikes they see fit without a public hearing.</p>" + 
 				"Learn more: <ol>" +
+				"<li><a href=\"https://youtu.be/-6eQLflMvUA\">Gaithersburg has plenty of cash. We should buy the home that is in limbo. It will be purchased by county government when they fund the CCT but when will that be? Our neighbor is stuck. Let's help our neighbor so he can retire and offload his nest egg. </a></li>" +
 				"<li><a href=\"http://www.scale-it-back.com\">Scale it back</a></li>" +
 				"<li><a href=\"http://beyonddc.com/log/?p=73\">Beyond DC</a></li>" +	
 				"<li><a href=\"http://wpo.st/aHen0\">Independent Transit Authority - taxing without a hearing</a></li>" + 
@@ -269,7 +274,10 @@ enyo.kind({
 			{title: "Dog Park repurposed", 
 				detailsImage: "assets/dogpark.jpg",
 				details: "<p>Our local government changed the rules for our dog park without involving our citizens. Their end game is to reduce usage so that they can &rdquo;repurpose it for something else.&ldquo;</p>" +
-				"<p>Friendships were broken. People who used to go to the park were kicked out. I guess we are just running out of green space. Listen to how the City Manager says: &ldquo;usage just goes down so we can repurpose the dog park for something else&rdquo;: <a href=\"https://www.youtube.com/watch?v=j-f3fbdjIgQ#t=3m33s\">watch the video</a>" +
+				"<p>Friendships were broken. People who used to go to the park were kicked out. I guess we are just running out of green space. Listen to how the City Manager says: &ldquo;usage just goes down so we can repurpose the dog park for something else&rdquo;: <a href=\"https://www.youtube.com/watch?v=j-f3fbdjIgQ#t=3m33s\">watch the video</a></p>" +
+				"Official response from City government: <ol>" +
+				"<li><a href=\"assets/Dec_7_2015_dog_park_ammendment_5211912072015115801317.pdf\">The currently proposed changes to our dog park ordinance</a></li>" +
+				"</ol>"	+ 
 				"<p>Voice your concerns: " + 
 					this.mailTo("cityhall@gaithersburgmd.gov", "Dog Park", 
 					"I am appalled by your secret motives for the dog park. It is egregious that you did not look for citizen input before you changed the rules for the dog park. You are not doing what I expect from you. ") + 
@@ -366,7 +374,8 @@ enyo.kind({
 				details: "<p>Across the country Americans are learning they can create their own dream homes on a small scale. They create pride of ownership and live debt-free. Local government prevents our citizens this freedom out of spite and ignorance.</p>" + 
 				"<p>Zuccarelli built a tiny house in her 0.5 acre property but the City condemned it because of zoning. They say it is illegal to have two single family homes in one plat of land. What is the purpose of this zoning? Zucarrelli's little house doesn't compete with the landscape and isn't even visible from the road. Is this just a power play, preventing Zuccarelli the freedom of using her land to the fullest? We think so. </p>" + 
 				"Learn more: <ol>" +
-				"<li><a href=\"http://wjla.com/news/local/tiny-home-causes-controversy-in-gaithersburg-99692\">See the Zuccarelli tiny house</a></li>" +
+				"<li><a href=\"https://youtu.be/Uxwsa_pC05Y\">Aaron asks the council to open Darline's tiny house to the public</a></li>" + 
+				"<li><a href=\"http://wjla.com/news/local/tiny-home-causes-controversy-in-gaithersburg-99692\">See Darline's tiny house</a></li>" +
 				"<li><a href=\"http://www.countryliving.com/homes/real-estate/tiny-house\">44 impressive tiny houses</a></li>" +	
 				"<li><a href=\"http://tinyhouseva.com\">Built to order in Virginia</a></li>" + 
 				"<li><a href=\"http://www.ted.com/talks/alastair_parvin_architecture_for_the_people_by_the_people?language=en\">Architecture for the people by the people</a></li>" + 
