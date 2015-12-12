@@ -210,6 +210,12 @@ enyo.kind({
 				"<p>The county simply does not have the funding to build schools as fast as Gaithersburg is building housing. </p>" + 
 				"<p>We should look into what it would take to break off from MCPS (Montgomery County Public Schools). How much will it cost to buy the current buildings from MCPS and roll our own school system? </p> " + 
 				"<p>The county is determined to raise our taxes on a bus system called the CCT (Corridor Cities Transitway) in addition to the Ride-On buses we already have which are hardly used. Why not cancel the CCT and spend the money on our schools? If you think education is expensive, try ignorance. </p>" + 
+				"Workable solutions &quot;Team Gaithersburg&quot; would like to see: <ol>" +
+				"<li>(stop annexation and housing development) - We cannot continue building homes faster than the county can build schools. It's already too late and we are not slowing down! Gaithersburg children are going to have to be bussed out of the city in the near future because the schools are overcrowded. No more! Every neighbor must come to city hall to voice their concern. Stop the insanity.</li>" +
+				"<li>(easy but imperfect) - Allow a child to transfer to any underutilized school if their home school is overcrowded. Only parents capable of driving to the new location can do this but for those that can it's better than staying in a crowded environment.</li>" +
+				"<li>(costly but worth it) - We want a dollar amount on how much it would cost to build out the schools in Gaithersburg and build the new High School on new ground. Can the city of Gaithersburg foot the bill? How much of a tax increase might we need to pull this off in 1 to 2 years?</li>" +
+				"<li>(ultimate) - Break off from MCPS and make our own school system. It's no secret that Gaithersburg schools are not rated highly. The best way to ensure an increase in home values is with a strong school system. The only way to make that happen is to take ownership of our schools at the city level. </li>" +
+				"</ol>" + 
 				"Learn more: <ol>" +
 				"<li><a href=\"https://youtu.be/tOp-WSPS3Xs\">The county is straight with us. The county does not have enough money to build more schools. Gaithersburg will not get any schools built and children will be bussed out of Gaithersburg. We are building houses too fast.</a></li>" +
 				"<li><a href=\"https://youtu.be/-6eQLflMvUA\">Gaithersburg has plenty of cash, but we aren't investigating how we can build more schools with it, we'd rather the county do that but that's not practical.</a></li>" +
@@ -235,8 +241,14 @@ enyo.kind({
 				"<p>The idea is to connect Shady Grove to Clarksburg by messing up Gaithersburg. Muddy branch will be widened and Great Seneca Highway will become further congested by these busses and additional traffic lights on what is already a pickle point.</p>" +
 				"<p>No citizen wants the CCT, it is a power play by developers and politicians. First the CCT must be built and then Johns Hopkins will destroy Belward Farm on Muddy Branch. Our neighbor whose house will be taken during the widening of Muddy Branch is now stuck and cannot retire! They told him they would take his house in 2016, then they said 2018, now they say they are not sure when because they have no money. He has no way to sell his home and continue his life.</p>" + 
 				"<p>To finish this project the county will have to raise taxes. They have tried to create a special task force called the &ldquo;Independent Transit Authority&rdquo; which would have the authority to create whatever tax hikes they see fit without a public hearing.</p>" + 
+				"Workable solutions &quot;Team Gaithersburg&quot; would like to see: <ol>" +
+				"<li>(easy and immediate) - Purchase the citizen's home that is scheduled to be demolished to make the CCT. Rent the home to that citizen or someone else. The city can sell it to the county when, and if, the CCT is built.</li>" +
+				"<li>(practical) - public hearing to stop the CCT from going through Gaithersburg. We don't have to change the flavor of our city to meet the county's demands. </li>" +
+				"<li>(ethical) - purchase the Belward farm from JHU and revitalize it. The Belward family wanted the land to be used to make a school. Either make a school or run it as a real farm. Our city's history included over 400 dairy farms that are no more. Everyone would like true local produce and students would have excellent educational experiences on day trips to a city owned farm. Ideally it could be a farmed animal sanctuary and also vegetable producing resource. </li>" +
+				"</ol>" + 
 				"Learn more: <ol>" +
 				"<li><a href=\"https://youtu.be/-6eQLflMvUA\">Gaithersburg has plenty of cash. We should buy the home that is in limbo. It will be purchased by county government when they fund the CCT but when will that be? Our neighbor is stuck. Let's help our neighbor so he can retire and offload his nest egg. </a></li>" +
+				"<li><a href=\"http://wpo.st/wB_w0\">Belward farm - the sad truth</a></li>" +
 				"<li><a href=\"http://www.scale-it-back.com\">Scale it back</a></li>" +
 				"<li><a href=\"http://beyonddc.com/log/?p=73\">Beyond DC</a></li>" +	
 				"<li><a href=\"http://wpo.st/aHen0\">Independent Transit Authority - taxing without a hearing</a></li>" + 
@@ -262,6 +274,10 @@ enyo.kind({
 				details: "<p>The semi-rural feel of our city has almost disappeared. Our green spaces are few and rare. If we keep going down this path we will end up being another Baltimore City. Who wants that? The majority of citizens want a light suburban feel with good food and convient shopping. We do not want a concrete jungle without even a place to let our dogs run. </p>" +
 				"<p> Local government have not asked citizens for input on what the big picture should be. Local government has not asked us what the upper limit on our city population should be. Local government has not asked us, &ldquo;How many people are too many people&rdquo; Instead they go for the power plays by wealthy developers</p> " + 
 				"<p> How do we want our city to feel, what quality of life is important to us? This is a conversation we must have before it is too late</p>" + 
+				"Workable solutions &quot;Team Gaithersburg&quot; would like to see: <ol>" +
+				"<li>(sensible) - Stop building homes until our schools are large enough to hold the students. Stop annexing new land for the purpose of making homes. Stop approving new housing development. Schools first!</li>" +
+				"<li>(practical) - Public hearing with a real plan for what the ideal Gaithersburg lifestyle should be. Do we want to be a large city with little green space or a suburban community? The original vision of Gaithersburg has been lost and citizens are no longer involved. Let's all get involved!</li>" +
+				"</ol>" + 
 				"Learn more: <ol>" +
 				"<li><a href=\"http://towncourier.com/concerned-residents-testify-against-johnson-annexation/\">Gaithersburg wants to annex another 25 acres to create more housing and tax revenue to continue overcrowding our schools</a></li>" +
 				"</ol>"	+
@@ -275,6 +291,9 @@ enyo.kind({
 				detailsImage: "assets/dogpark.jpg",
 				details: "<p>Our local government changed the rules for our dog park without involving our citizens. Their end game is to reduce usage so that they can &rdquo;repurpose it for something else.&ldquo;</p>" +
 				"<p>Friendships were broken. People who used to go to the park were kicked out. I guess we are just running out of green space. Listen to how the City Manager says: &ldquo;usage just goes down so we can repurpose the dog park for something else&rdquo;: <a href=\"https://www.youtube.com/watch?v=j-f3fbdjIgQ#t=3m33s\">watch the video</a></p>" +
+				"Workable solutions &quot;Team Gaithersburg&quot; would like to see: <ol>" +
+				"<li>(ethical) - Put the ordinance back the way it was. Most citizens were happy with it before the city changed it without involving the community.</li>" +
+				"</ol>" + 
 				"Official response from City government: <ol>" +
 				"<li><a href=\"assets/Dec_7_2015_dog_park_ammendment_5211912072015115801317.pdf\">The currently proposed changes to our dog park ordinance</a></li>" +
 				"</ol>"	+ 
@@ -294,13 +313,13 @@ enyo.kind({
 				"<p>It happened to Aaron Rosenzweig. The city constantly harassed him and eventually threatened him with child support services taking his children away. Why? because someone in the greater community did not like their choice of pets. David and Faith Roseman used taxpayer resources to do the unthinkable all the while he drove by photographing Aaron's kids and flipping them &ldquo;the bird.&rdquo; David is treasurer of NARFE and United Seniors of Maryland, somehow his voice was heard rather than go through a process of public hearing. </p>" + 
 				"<p>When Aaron started testifying at public hearings, the harassment suddenly stopped but the city refuses to apologize and refuses to fix the problems in our code enforcement.</p>" +  
 
-				"The city refuses to: <ol>" +
-				"<li>Grant Aaron a permit to keep a non-crowing rooster nor explain why they refuse to do so.</li>" +
-				"<li>Admit they made a mistake in 2010 when they changed our laws in a way that benefits nobody yet leads to conflict. Look at the <a href=\"assets/no_crowing_rooster.jpg\">2009 law</a> that was fair to everyone (scanned from ordinances Lisa Holland gave Aaron)</li>" +
-				"<li>Audit all dog bite claims in the last 5 years to determine how many were fraudulent abuse over trivial issues like car parking</li>" +
-				"<li>Publish the results of the city's secret investigation of Animal Control for all to see</li>" +
-				"<li>Explain what, if any, corrective action was taken to prevent future abuse of process</li>" +
-				"<li>Make a public apology for not respecting the Rosenzweig family as true citizens and forcing them to build a privacy fence.</li>" +
+				"Workable solutions &quot;Team Gaithersburg&quot; would like to see: <ol>" + 				
+				"<li>(easy) - Grant Aaron a permit to keep a non-crowing rooster.</li>" +
+				"<li>(ethical) - Admit they made a mistake in 2010 when they changed our laws in a way that benefits nobody yet leads to conflict. Look at the <a href=\"assets/no_crowing_rooster.jpg\">2009 law</a> that was fair to everyone (scanned from ordinances Lisa Holland gave Aaron)</li>" +
+				"<li>(ethical) - Make a public apology for not respecting the Rosenzweig family as true citizens and forcing them to build a privacy fence.</li>" +
+				"<li>(transparency) - Audit all dog bite claims in the last 5 years to determine how many were fraudulent abuse over trivial issues like car parking</li>" +
+				"<li>(transparency) - Publish the results of the city's secret investigation of Animal Control for all to see</li>" +
+				"<li>(transparency) - Explain what, if any, corrective action was taken to prevent future abuse of process</li>" +
 				"</ol>"	+ 
 
 				
@@ -372,7 +391,12 @@ enyo.kind({
 			{title: "Tiny House Legalization", 
 				detailsImage: "assets/tiny-house-2.jpg",
 				details: "<p>Across the country Americans are learning they can create their own dream homes on a small scale. They create pride of ownership and live debt-free. Local government prevents our citizens this freedom out of spite and ignorance.</p>" + 
-				"<p>Zuccarelli built a tiny house in her 0.5 acre property but the City condemned it because of zoning. They say it is illegal to have two single family homes in one plat of land. What is the purpose of this zoning? Zucarrelli's little house doesn't compete with the landscape and isn't even visible from the road. Is this just a power play, preventing Zuccarelli the freedom of using her land to the fullest? We think so. </p>" + 
+				"<p>Zuccarelli built a tiny house in her 0.5 acre property but the City condemned it because of zoning. They say it is illegal to have two single family homes in one plat of land. What is the purpose of this zoning? Zucarrelli's little house doesn't compete with the landscape and isn't even visible from the road. The city has stated that if anyone walks into Darline's Tiny Home, even herself, that she will go to jail for 3 months. Because of this, her Tiny Home has been moth-balled for over 2 years. Is this just a power play, preventing Zuccarelli the freedom of using her land to the fullest? We think so. </p>" + 
+				"Workable solutions &quot;Team Gaithersburg&quot; would like to see: <ol>" +
+				"<li>(easy and ethical) - Grant Darline a weekend to show off her Tiny Home to the public and garner signatures. Give Darline 2 weeks to prepare her home for viewing</li>" +
+				"<li>(ethical) - If Darline gets 100 signatures, find a way to make her Tiny Home legal</li>" +
+				"<li>(reasonable) - If Darline gets 250 signatures, bring Tiny Homes to public hearing so that other neighbors may make Tiny Homes and accessory dwellings</li>" +
+				"</ol>" + 
 				"Learn more: <ol>" +
 				"<li><a href=\"https://youtu.be/Uxwsa_pC05Y\">Aaron asks the council to open Darline's tiny house to the public</a></li>" + 
 				"<li><a href=\"http://wjla.com/news/local/tiny-home-causes-controversy-in-gaithersburg-99692\">See Darline's tiny house</a></li>" +
