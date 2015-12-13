@@ -164,12 +164,13 @@ enyo.kind({
 				topicFooterImage: "assets/together_we_can.jpg",
 				details: "<p>Team Gaithersburg</p>" +
 				"<p>When citizens become neighbors they can create an impact.</p>" + 
+				"<p><a href=\"https://rallyhood.com/rallies/23387\">Join our &ldquo;Rallyhood.&rdquo;</a> It is a modern mailing list where you can post, share, and read all previous messages</p>" + 
 				"<p>Saddened by the status quo, we are a group of concerned neighbors demanding change. We want to find out what happens when an irresistible force (neighbors united) meets an immovable object (local government). When the dust settles, we'll learn nothing is truly irresistible nor immovable, things only appear that way until you dig into the root cause. It's time to hold our local government accountable. It's time to stop letting career politicians use their time governing our great city as merely a stepping stone on their way to the Senate. Leading our city means more than embellishing their resume, they must work to enhance our quality of life. </p>" + 
 				"<p>How will we hold our local city government accountable? By holding fast to the issues that matter most and educating our neighbors about what is going on. We won't let our City Council forget the big picture. If they don't change their ways, we'll vote them out of office in the next election cycle.</p>" + 
 				"<p>When you cannot get the simple issues right… like coming to someone’s home when they ask for help, forcing them to make a public spectacle before they leave you alone… digging in their heels and refusing to make amends… that’s when you realize that there is no hope in getting the &ldquo;big&rdquo; issues right such as our schools and transportation. The entire purpose of having a &ldquo;city&rdquo; is so we can have more control than what the county allows us. If we are nothing more than a &ldquo;yes-man&rdquo; for the county, there is little point in having a city. Our city taxes are only useful when we mobilize to create a difference we can feel in our quality of life. Things like leaf and and branch pickup are a useful benefit. </p>" + 
 				"<p>Who are we? Anyone can join us and bring up issues that must be addressed and resolved which aren't getting the attention they deserve.</p>" +
 				"<h2>We welcome our city council to respond to our concerns. We will post their official stance on each line item if and when we receive them.</h2>" + 
-				"<p>Aaron Rosenzweig <a href=\"mailto:aaron@chatnbike.com\">aaron@chatnbike.com</a> - I'm a working family man who never really cared about city politics until he was directly impacted by it, now I know too much about the realities of our local government. The city threatened to take our children away with child protective services because a citizen didn't like our choice of pets. I refuse to sit idly by while our way of life is ruined. I'm not chicken to speak the truth, even when it hurts. <a href=\"https://www.change.org/p/city-of-gaithersburg-maryland-lift-rooster-ban\">Learn my story</a></p>"  + 
+				"<p>Aaron Rosenzweig <a href=\"mailto:aaron@chatnbike.com\">aaron@chatnbike.com</a> - I'm a family man who never really cared about city politics until he was directly impacted by it, now I know too much about the realities of our local government. The city threatened to take our children away with child protective services because a citizen didn't like our choice of pets. I refuse to sit idly by while our way of life is ruined. I'm not chicken to speak the truth, even when it hurts. <a href=\"https://www.change.org/p/city-of-gaithersburg-maryland-lift-rooster-ban\">Learn my story and please sign my petition</a></p>"  + 
 				"<p>Voice your concerns: " + 
 					this.mailTo("cityhall@gaithersburgmd.gov", "Team Gaithersburg", 
 					"I support TeamGaithersburg.org and will also hold you accountable for your actions (and inactions)") + 
@@ -203,7 +204,7 @@ enyo.kind({
 
 			{title: "Fix our schools",
 				detailsImage: "assets/SchoolOvercrowding.jpg",
-				details: "<p>Overcrowded and 150% overcapacity. New housing development continues. This is hurting our private housing values and our children deserve better.</p>" + 
+				details: "<p>Overcrowded and 150% overcapacity. New housing development continues. This is hurting our private housing values and our children deserve better. <a href =\"https://www.change.org/p/city-of-gaithersburg-limit-gaithersburg-school-overcrowding-to-110\">Sign the petition!</a></p>" + 
 				"<p>In 2015 our local government voted to increase our overcapacity limits from 110% to 150% so that more houses can be built. This means 1/3 of students will be in temporary structures outside of the main school building. It's very shortsighted. The city gets immediate revenue from more citizens moving in which creates more tax dollars for them to spend. In the long run our house values will be hurt because good families do not want to move into a city with overcrowded schools.</p>" + 
 				"<p>Our city council says they've done well because there is a special tax they'll collect when developers build housing that causes overcrowding. Interesting! but nowhere can we find that the amount of tax they raise from developers is enough to do anything with. To make matters worse, there is no direction on how and when that money will be spent other than if it is not spent, it will go back to the housing developers.</p>" + 
 				"<p>It is obvious that our local government is either unwilling or unable to improve our schools. Something has to change.</p>" + 
@@ -211,7 +212,7 @@ enyo.kind({
 				"<p>We should look into what it would take to break off from MCPS (Montgomery County Public Schools). How much will it cost to buy the current buildings from MCPS and roll our own school system? </p> " + 
 				"<p>The county is determined to raise our taxes on a bus system called the CCT (Corridor Cities Transitway) in addition to the Ride-On buses we already have which are hardly used. Why not cancel the CCT and spend the money on our schools? If you think education is expensive, try ignorance. </p>" + 
 				"Workable solutions &quot;Team Gaithersburg&quot; would like to see: <ol>" +
-				"<li>(stop annexation and housing development) - We cannot continue building homes faster than the county can build schools. It's already too late and we are not slowing down! Gaithersburg children are going to have to be bussed out of the city in the near future because the schools are overcrowded. No more! Every neighbor must come to city hall to voice their concern. Stop the insanity.</li>" +
+				"<li>(stop annexation and housing development) - <a href =\"https://www.change.org/p/city-of-gaithersburg-limit-gaithersburg-school-overcrowding-to-110\">Sign the petition!</a> We cannot continue building homes faster than the county can build schools. It's already too late and we are not slowing down! Gaithersburg children are going to have to be bussed out of the city in the near future because the schools are overcrowded. No more! Every neighbor must come to city hall to voice their concern. Stop the insanity.</li>" +
 				"<li>(easy but imperfect) - Allow a child to transfer to any underutilized school if their home school is overcrowded. Only parents capable of driving to the new location can do this but for those that can it's better than staying in a crowded environment.</li>" +
 				"<li>(costly but worth it) - We want a dollar amount on how much it would cost to build out the schools in Gaithersburg and build the new High School on new ground. Can the city of Gaithersburg foot the bill? How much of a tax increase might we need to pull this off in 1 to 2 years?</li>" +
 				"<li>(ultimate) - Break off from MCPS and make our own school system. It's no secret that Gaithersburg schools are not rated highly. The best way to ensure an increase in home values is with a strong school system. The only way to make that happen is to take ownership of our schools at the city level. </li>" +
@@ -325,7 +326,7 @@ enyo.kind({
 				
 				"<p>Aaron has received email from the Mayor asking him to give up his right to free speech. The mayor, Jud Ashman, has even visited Aaron's home with the express purpose of saying &ldquo;Man to man, let sleeping dogs lie.&rdquo; What does the City have to hide? Oh yes, here it is, the blog post that Mayor Ashman has deleted from his website: <a href=\"http://liftroosterban.com/file/Jud_Ashman_Roosters.pdf\">2010 Rooster ban was the one mistake the council made that year</a> </p>" + 
 				"Learn more: <ol>" +
-				"<li><a href=\"https://www.change.org/p/city-of-gaithersburg-maryland-lift-rooster-ban\">Aaron's story</a></li>" +
+				"<li><a href=\"https://www.change.org/p/city-of-gaithersburg-maryland-lift-rooster-ban\">Please listen to Aaron's story and sign his petition</a></li>" +
 				"<li><a href=\"http://liftroosterban.com\">Rooster collars</a></li>" +
 				"<li><a href=\"https://www.youtube.com/watch?v=Rd6hcfDNg1I\">Neighbors defending chickens</a></li>" +
 				"<li><a href=\"https://www.youtube.com/watch?v=m8v4kNg6OVk\">&ldquo;I have a dream&rdquo;</a></li>" +
@@ -380,6 +381,7 @@ enyo.kind({
 				"<li><a href=\"https://www.youtube.com/watch?v=M5H7uMq3mS8\">Oops I let the cow in...</a></li>" + 
 				"<li><a href=\"https://www.youtube.com/watch?v=6c_rhF2TfsI\">Pig in the city</a></li>" + 
 				"<li><a href=\"https://youtu.be/jU16HUCDYm8\">Nana the poker playing chicken</a></li>" + 
+				"<li><a href=\"https://www.youtube.com/watch?v=-yCZKjVSPwY\">Children raising rabbits, chickens, goats, pigs, in under 2 acres of land</a></li>" + 
 				"</ol>"	+ 
 				"<p>Voice your concerns: " + 
 					this.mailTo("cityhall@gaithersburgmd.gov", "A chicken named Luna", 
