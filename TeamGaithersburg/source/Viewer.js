@@ -283,8 +283,21 @@ enyo.kind({
 				"<li>(practical) - Public hearing with a real plan for what the ideal Gaithersburg lifestyle should be. Do we want to be a large city with little green space or a suburban community? The original vision of Gaithersburg has been lost and citizens are no longer involved. Let's all get involved!</li>" +
 				"</ol>" + 
 				"Learn more: <ol>" +
+				"<li><a href=\"https://www.change.org/p/planning-gaithersburgmd-gov-20878-don-t-let-our-neighborhood-and-schools-become-overdeveloped-over-commercialized-and-traffic-ridden\">Sign the petition to stop the annexation of the Johnson property.</a></li>" +
 				"<li><a href=\"http://towncourier.com/concerned-residents-testify-against-johnson-annexation/\">Gaithersburg wants to annex another 25 acres to create more housing and tax revenue to continue overcrowding our schools</a></li>" +
+				"<li><a href=\"http://www.mymcmedia.org/johnson-property-annexation-petition-draws-opposition-from-community-members/\">Video interviews with citizens about annexation</a></li>" +
 				"</ol>"	+
+				
+				"<p>Full details on Johnson annexation (from Barbara Brenkworth of Dufief):</p>" + 
+
+"<p>The property owner/developer is trying right now to be annexed into the City of Gaithersburg. It seems they are trying to do this so they can rezone the property and put more on it. Currently the county would allow for ball fields, single family homes or townhouses but the developers want both plus mixed use buildings – up to 6 stories high and the City of Gaithersburg would allow this. If they get annexed, they will develop the property in a 3 phase approach:</p> <ol>" + 
+
+"<li>Phase 1 –The first would be to develop everything to the left of the Safeway. We would have a few single family homes, townhomes and condos. While currently the county would allow for 30 homes, the city would allow for 180. They are hoping for over 180 units.</li>" + 
+
+"<li>Phase 2 – the Safeway has another 20 potential years on their lease (two 10 year options). Assuming they do both options, phase 2 would be the removal of the Safeway for more mixed use buildings. These would be the 5-6 story buildings with retail on the first floor and apts, condos above. We would lose our only grocery store close to us – albeit not a wonderful one, it still is nice and convenient.</li>" + 
+
+"<li>Phase 3 – would be for commercial high rise building(s) on the corner.</li>" + 
+				"</ol>" + 
 				"<p>Voice your concerns: " + 
 					this.mailTo("cityhall@gaithersburgmd.gov", "Overdevelopment", 
 					"Our City has no debt, so why do you continuously push for overdevelopment? Are our tax dollars not enough for you that you must find new residents? Why do you even entertain the thought of the Johnson annexation? That will only overcrowd our schools and create even more congestion. Let the county do what it will but cease and desist the overdevelopment of Gaithersburg. ") + 
