@@ -243,12 +243,12 @@ enyo.kind({
 				"<p>No citizen wants the CCT, it is a power play by developers and politicians. First the CCT must be built and then Johns Hopkins will destroy Belward Farm on Muddy Branch. Our neighbor whose house will be taken during the widening of Muddy Branch is now stuck and cannot retire! They told him they would take his house in 2016, then they said 2018, now they say they are not sure when because they have no money. He has no way to sell his home and continue his life.</p>" + 
 				"<p>To finish this project the county will have to raise taxes. They have tried to create a special task force called the &ldquo;Independent Transit Authority&rdquo; which would have the authority to create whatever tax hikes they see fit without a public hearing.</p>" + 
 				"Workable solutions &quot;Team Gaithersburg&quot; would like to see: <ol>" +
-				"<li>(easy and immediate) - Purchase the citizen's home that is scheduled to be demolished to make the CCT. Rent the home to that citizen or someone else. The city can sell it to the county when, and if, the CCT is built.</li>" +
+				//"<li>(easy and immediate) - Purchase the citizen's home that is scheduled to be demolished to make the CCT. Rent the home to that citizen or someone else. The city can sell it to the county when, and if, the CCT is built.</li>" +
 				"<li>(practical) - public hearing to stop the CCT from going through Gaithersburg. We don't have to change the flavor of our city to meet the county's demands. </li>" +
 				"<li>(ethical) - purchase the Belward farm from JHU and revitalize it. The Belward family wanted the land to be used to make a school. Either make a school or run it as a real farm. Our city's history included over 400 dairy farms that are no more. Everyone would like true local produce and students would have excellent educational experiences on day trips to a city owned farm. Ideally it could be a farmed animal sanctuary and also vegetable producing resource. </li>" +
 				"</ol>" + 
 				"Learn more: <ol>" +
-				"<li><a href=\"https://youtu.be/-6eQLflMvUA\">Gaithersburg has plenty of cash. We should buy the home that is in limbo. It will be purchased by county government when they fund the CCT but when will that be? Our neighbor is stuck. Let's help our neighbor so he can retire and offload his nest egg. </a></li>" +
+				//"<li><a href=\"https://youtu.be/-6eQLflMvUA\">Gaithersburg has plenty of cash. We should buy the home that is in limbo. It will be purchased by county government when they fund the CCT but when will that be? Our neighbor is stuck. Let's help our neighbor so he can retire and offload his nest egg. </a></li>" +
 				"<li><a href=\"http://wpo.st/wB_w0\">Belward farm - the sad truth</a></li>" +
 				"<li><a href=\"http://www.scale-it-back.com\">Scale it back</a></li>" +
 				"<li><a href=\"http://beyonddc.com/log/?p=73\">Beyond DC</a></li>" +	
