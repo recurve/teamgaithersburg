@@ -264,6 +264,9 @@ enyo.kind({
 			{title: "Revitalize Olde Towne", 
 				detailsImage: "assets/olde_towne.jpg",
 				details: "<p>Not enough love in revitalizing our Olde Towne. Local government says they’ll improve Olde Towne but always go for new development instead.</p>" 	+ 
+				"Workable solutions &quot;Team Gaithersburg&quot; would like to see: <ol>" +
+				"<li><a href=\"assets/GaithCitizensPlan_Frederick_Avenue_Corridor.pdf\">Citizens' plan</a> That is a link to the well organized plan for Olde Towne that citizens have tried to bring to life since 2011. The city has completely ignored the proposal and have removed all manner of links to this document from the city's website. </li>" +
+				"</ol>" + 
 				"<p>Voice your concerns: " + 
 					this.mailTo("cityhall@gaithersburgmd.gov", "Revitalize Olde Towne First", 
 					"Olde Towne needs help. I want you to stop developing other parts of Gaithersburg until you put effort into Olde Towne. ") + 
