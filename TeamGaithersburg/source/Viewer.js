@@ -244,11 +244,13 @@ enyo.kind({
 				"<p>To finish this project the county will have to raise taxes. They have tried to create a special task force called the &ldquo;Independent Transit Authority&rdquo; which would have the authority to create whatever tax hikes they see fit without a public hearing.</p>" + 
 				"Workable solutions &quot;Team Gaithersburg&quot; would like to see: <ol>" +
 				//"<li>(easy and immediate) - Purchase the citizen's home that is scheduled to be demolished to make the CCT. Rent the home to that citizen or someone else. The city can sell it to the county when, and if, the CCT is built.</li>" +
-				"<li>(practical) - public hearing to stop the CCT from going through Gaithersburg. We don't have to change the flavor of our city to meet the county's demands. </li>" +
+				"<li>(practical) - public hearing to stop the CCT from going through Muddy Branch, let it only go through Great Seneca Highway. We don't have to change the flavor of our city to meet the county's demands but if we are going allow the CCT we should strive for minimal negative impact. Keeping the CCT away from Muddy Branch will retain the character of the many homes that interact with Muddy Branch. Also, Mr. Zhang's home would no longer be in the path of the CCT. </li>" +
 				"<li>(ethical) - purchase the Belward farm from JHU and revitalize it. The Belward family wanted the land to be used to make a school. Either make a school or run it as a real farm. Our city's history included over 400 dairy farms that are no more. Everyone would like true local produce and students would have excellent educational experiences on day trips to a city owned farm. Ideally it could be a farmed animal sanctuary and also vegetable producing resource. </li>" +
 				"</ol>" + 
 				"Learn more: <ol>" +
 				//"<li><a href=\"https://youtu.be/-6eQLflMvUA\">Gaithersburg has plenty of cash. We should buy the home that is in limbo. It will be purchased by county government when they fund the CCT but when will that be? Our neighbor is stuck. Let's help our neighbor so he can retire and offload his nest egg. </a></li>" +
+				//
+				"<li><a href=\"https://youtu.be/U2GPTN0OyZc\">(video) Aaron asks the City how long will they keep Mr. Zhang in limbo? Are they going to take his house or not? Why won't they help him?</a></li>" +
 				"<li><a href=\"http://wpo.st/wB_w0\">Belward farm - the sad truth</a></li>" +
 				"<li><a href=\"http://www.scale-it-back.com\">Scale it back</a></li>" +
 				"<li><a href=\"http://beyonddc.com/log/?p=73\">Beyond DC</a></li>" +	
@@ -279,6 +281,8 @@ enyo.kind({
 				"<p> Local government have not asked citizens for input on what the big picture should be. Local government has not asked us what the upper limit on our city population should be. Local government has not asked us, &ldquo;How many people are too many people&rdquo; Instead they go for the power plays by wealthy developers</p> " + 
 				"<p> How do we want our city to feel, what quality of life is important to us? This is a conversation we must have before it is too late</p>" + 
 				"Workable solutions &quot;Team Gaithersburg&quot; would like to see: <ol>" +
+				
+				"<li>(simple) - Any notifications of future retail and housing development should be within at least a 1 mile radius. The current rule of only 200 feet is outdated and only makes sense for a <a href=\"assets/no_crowing_rooster.jpg\">rooster ordinance</a></li>" +
 				"<li>(sensible) - Stop building homes until our schools are large enough to hold the students. Stop annexing new land for the purpose of making homes. Stop approving new housing development. Schools first!</li>" +
 				"<li>(practical) - Public hearing with a real plan for what the ideal Gaithersburg lifestyle should be. Do we want to be a large city with little green space or a suburban community? The original vision of Gaithersburg has been lost and citizens are no longer involved. Let's all get involved!</li>" +
 				"</ol>" + 
@@ -288,7 +292,7 @@ enyo.kind({
 				"<li><a href=\"http://www.mymcmedia.org/johnson-property-annexation-petition-draws-opposition-from-community-members/\">Video interviews with citizens about annexation</a></li>" +
 				"</ol>"	+
 				
-				"<p>Full details on Johnson annexation (from Barbara Brenkworth of Dufief):</p>" + 
+				"<h2>Full details on Johnson annexation</h2><div>(from Barbara Brenkworth of Dufief):</div>" + 
 
 "<p>The property owner/developer is trying right now to be annexed into the City of Gaithersburg. It seems they are trying to do this so they can rezone the property and put more on it. Currently the county would allow for ball fields, single family homes or townhouses but the developers want both plus mixed use buildings – up to 6 stories high and the City of Gaithersburg would allow this. If they get annexed, they will develop the property in a 3 phase approach:</p> <ol>" + 
 
@@ -298,6 +302,17 @@ enyo.kind({
 
 "<li>Phase 3 – would be for commercial high rise building(s) on the corner.</li>" + 
 				"</ol>" + 
+				
+				"<h3>GOOD NEWS! (Dec. 2015) The Johnson proposal has been pulled</h3><p> Johnson's will likely come back with a proposal to build 45 homes. That is much better than the 180 homes they originally wanted.</p>" + 
+				
+				"<h2>Full details on Magruder annexation</h2><div>(from Mark Ezrin of Lakelands):</div>" + 
+				
+				"<p>The Magruder Property is on the southwest corner near Quince Orchard Highschool. It's where McDonald's, Dunkin Donuts, and Papa John's Pizza currently is. They want to become part of the City of Gaithersburg so they can change to MXD zoning. That means they can do whatever they want including building residential housing in the form of condos. Bill Magruder says that if his property is annexed into Gaithersburg they won't do anything immediately but &ldquo;When the time is right it will be right and having both sides in one municipality will allow us to respond to the market as quickly as we can&rdquo;</p>" + 
+				
+				"<p>Nobody was notified about the Magruder annexation because Gaithersburg rules only require homes within 200 feet be notified. That's a good rule of thumb for a <a href=\"assets/no_crowing_rooster.jpg\">rooster ordinance</a> but a very outdated rule for city planning. Nobody lives within 200 feet of the Magruder shopping center. If this were the county the rule requires a 1 mile radius to be notified. As it stands, extremely few people knew about the Magruder annexation. It flew under the radar and the last time anyone could officially voice a concern has come and gone. The last date for comments was December 16, 2015.</p>" + 
+				
+				"<p>Even though the Magruder property is a strip mall now, once it becomes part of Gaithersburg anything can happen. Residential condos 10 stories high are possible.</p>" + 
+				
 				"<p>Voice your concerns: " + 
 					this.mailTo("cityhall@gaithersburgmd.gov", "Overdevelopment", 
 					"Our City has no debt, so why do you continuously push for overdevelopment? Are our tax dollars not enough for you that you must find new residents? Why do you even entertain the thought of the Johnson annexation? That will only overcrowd our schools and create even more congestion. Let the county do what it will but cease and desist the overdevelopment of Gaithersburg. ") + 
