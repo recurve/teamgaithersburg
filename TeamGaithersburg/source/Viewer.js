@@ -160,15 +160,19 @@ enyo.kind({
 	loadGaithersburgData: function() {
 		this.results = [
 			{title: "Team Gaithersburg", 
-				detailsImage: "assets/team_drink.jpg",
+				detailsImage: "assets/teamwork-quotes-11.jpg",
 				topicFooterImage: "assets/together_we_can.jpg",
 				details: "<p>Team Gaithersburg</p>" +
-				"<p>When citizens become neighbors they can create an impact.</p>" + 
 				"<p><a href=\"https://rallyhood.com/rallies/23387\">Join our &ldquo;Rallyhood.&rdquo;</a> It is a modern mailing list where you can post, share, and read all previous messages</p>" + 
 				"<p>Saddened by the status quo, we are a group of concerned neighbors demanding change. We want to find out what happens when an irresistible force (neighbors united) meets an immovable object (local government). When the dust settles, we'll learn nothing is truly irresistible nor immovable, things only appear that way until you dig into the root cause. It's time to hold our local government accountable. It's time to stop letting career politicians use their time governing our great city as merely a stepping stone on their way to the Senate. Leading our city means more than embellishing their resume, they must work to enhance our quality of life. </p>" + 
 				"<p>How will we hold our local city government accountable? By holding fast to the issues that matter most and educating our neighbors about what is going on. We won't let our City Council forget the big picture. If they don't change their ways, we'll vote them out of office in the next election cycle.</p>" + 
 				"<p>When you cannot get the simple issues right… like coming to someone’s home when they ask for help, forcing them to make a public spectacle before they leave you alone… digging in their heels and refusing to make amends… that’s when you realize that there is no hope in getting the &ldquo;big&rdquo; issues right such as our schools and transportation. The entire purpose of having a &ldquo;city&rdquo; is so we can have more control than what the county allows us. If we are nothing more than a &ldquo;yes-man&rdquo; for the county, there is little point in having a city. Our city taxes are only useful when we mobilize to create a difference we can feel in our quality of life. Things like leaf and and branch pickup are a useful benefit. </p>" + 
 				"<p>Who are we? Anyone can join us and bring up issues that must be addressed and resolved which aren't getting the attention they deserve.</p>" +
+				
+				"Related links: <ol>" +
+				"<li><a href=\"https://www.facebook.com/SmallPotatoesBlog/\">Gaithersburg &ldquo;Small Potatoes&rdquo; blog</a></li>" +
+				"</ol>" + 
+				
 				"<h2>We welcome our city council to respond to our concerns. We will post their official stance on each line item if and when we receive them.</h2>" + 
 				"<p>Aaron Rosenzweig <a href=\"mailto:aaron@chatnbike.com\">aaron@chatnbike.com</a> - I'm a family man who never really cared about city politics until he was directly impacted by it, now I know too much about the realities of our local government. The city threatened to take our children away with child protective services because a citizen didn't like our choice of pets. I refuse to sit idly by while our way of life is ruined. I'm not chicken to speak the truth, even when it hurts. <a href=\"https://www.change.org/p/city-of-gaithersburg-maryland-lift-rooster-ban\">Learn my story and please sign my petition</a></p>"  + 
 				"<p>Voice your concerns: " + 
@@ -229,6 +233,9 @@ enyo.kind({
 				"<li><a href=\"http://gaithersburgmd.gov/~/media/city/documents/government/city_projects/ctam_7036_2015/exhibits_011_015.pdf\">150% overcrowding Gaithersburg's PowerPoint presentation</a></li>" +
 				"<li><a href=\"http://thesentinel.com/mont/newsx/local/item/2779-mcps-students-perform-poorly-on-state-tests\">More than half of the students in Montgomery County failed the state's math exam. I wonder why? Maybe because we value business interests rather than our children's interests?</a></li>" +
 				"<li><a href=\"http://www.boarddocs.com/mabe/mcpsmd/Board.nsf/goto?open&id=A4YSFH63C580\">Aaron thanks the school system for allowing modern keyboards on standardized tests (PDF is there and TV Icon shows video of speech)</a></li>" +
+				"</ol>" + 
+				"Related links: <ol>" +
+				"<li><a href=\"https://www.facebook.com/rcesovercrowding/\">Rachel Carson Elementary school blog</a></li>" +
 				"</ol>" + 
 				"<p>Voice your concerns: " + 
 					this.mailTo("cityhall@gaithersburgmd.gov", "Fix our schools", 
@@ -411,7 +418,7 @@ enyo.kind({
 				"<li><a href=\"https://www.youtube.com/watch?v=0c_z9gaobgU\">Chicken diapers</a></li>" + 
 				"<li><a href=\"https://www.youtube.com/watch?v=M5H7uMq3mS8\">Oops I let the cow in...</a></li>" + 
 				"<li><a href=\"https://www.youtube.com/watch?v=6c_rhF2TfsI\">Pig in the city</a></li>" + 
-				"<li><a href=\"https://youtu.be/jU16HUCDYm8\">Nana the poker playing chicken</a></li>" + 
+				"<li>Nana the poker playing chicken: <a href=\"https://youtu.be/jU16HUCDYm8\">part 1</a>, <a href=\"https://youtu.be/2O-VOxXxLls\">part 2</a></li>" + 
 				"<li><a href=\"https://www.youtube.com/watch?v=-yCZKjVSPwY\">Children raising rabbits, chickens, goats, pigs, in under 2 acres of land</a></li>" + 
 				"</ol>"	+ 
 				"<p>Voice your concerns: " + 
