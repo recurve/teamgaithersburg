@@ -206,20 +206,41 @@ enyo.kind({
 				"</p>"				
 			}, 
 
-			{title: "Fix our schools",
+			{title: "Fix Our Community",
+				detailsImage: "assets/diverse-community-pic.jpg",
+				details: 
+				"<p>Gaithersburg is made of diverse cultures and backgrounds. We'd like to see it stay that way. There are a number of issues that neighbors in Gaithersburg want addressed. Some are appalling, like the treatment of miniority neighborhoods by city government. Other issues are just common sense, there is no reason NOT to address them. Residents have voiced these issues with Team Gaithersburg because the city is not listening to them.</p>" + 				
+				"Workable solutions &quot;Team Gaithersburg&quot; would like to see: <ol>" +
+				"<li>Apologize for the complacency and disrespect the City showed minority residents when they were the victim of a hate crime destroying their cars in the East Deer Park community. The city never identified the perpetrator and then not even seven days passed before giving the residents citations for unsightly vehicles. </li>" +
+				"<li>When an ethnic minority phones in an animal abuse complaint, don't blow them off. Take their complaint seriously. Twice a hispanic woman phoned in a complaint about a dog being left out during snow fall without shelter. Her voice was ignored.</li>" +
+				"<li>A hispanic person was given a citation for a car that was in their car port. The car did not have tags and they were not driving it. I can understand if a car is parked on the street and not moved for a period of time that the city would give a person a citation. In this case? Maybe the city has the legal right to do it but I question the purpose of harassing someone who has kept their car in their car-port.</li>" +
+				"<li>Roads are not being resurfaced and yellow curb paint is not being reapplied in places where it has faded to signify that cars should not park there. The city says the yellow paint does not hold up in court but… why do we have to go that far? Isn’t it nice to let people easily know where they should not park? Isn’t it nice to resurface the roads every so often before they get too bad? Why not?</li>" +
+				"<li>Bee-safe neighborhoods - following the lead of the County getting rid of pesticides in residential neighborhoods so that bees and butterflies have a path to fly.</li>" +
+				"<li>Rain gardens are not granted the same respect as rain barrels. Why not? They work all the time and are generally better than rain barrels, what’s the difference? You can’t get rebates for installing a rain garden but you can if you install a rain barrel. </li>" +
+				"<li>Leaf and yard waste pickup only happens if you put it in a paper bag. If you put it in a reusable container, the city won’t grab it. Why? In the county if you put a yard-waste sticker on the container they’ll take it. Isn’t that better? Reduce-Reuse-Recycle… a plastic container beats a paper bag any day. </li>" +
+				"</ol>" + 
+				"<p>Voice your concerns: " + 
+					this.mailTo("cityhall@gaithersburgmd.gov", "Fix Our Community", 
+					"I want you to address the problems identified by Team Gaithersburg that are hurting our community. ") + 
+				"</p>"
+			}, 
+
+			{title: "Fix Our Schools",
 				detailsImage: "assets/SchoolOvercrowding.jpg",
-				details: "<p>Overcrowded and 150% overcapacity. New housing development continues. This is hurting our private housing values and our children deserve better. <a href =\"https://www.change.org/p/city-of-gaithersburg-limit-gaithersburg-school-overcrowding-to-110\">Sign the petition!</a></p>" + 
+				details: 
+				"<p>Now it is 2016. Schools like Summit Hall are falling apart, it's disgraceful. Some schools, such are Rachel Carson, are 160% overcrowded. <a href =\"https://www.change.org/p/city-of-gaithersburg-roll-our-own-city-of-gaithersburg-school-system\">Sign the petition!</a></p>" + 				
+				"<p>Overcrowded and overcapacity. New housing development continues. This will eventually hurt our private housing values and our children deserve better. </p>" + 
 				"<p>In 2015 our local government voted to increase our overcapacity limits from 110% to 150% so that more houses can be built. This means 1/3 of students will be in temporary structures outside of the main school building. It's very shortsighted. The city gets immediate revenue from more citizens moving in which creates more tax dollars for them to spend. In the long run our house values will be hurt because good families do not want to move into a city with overcrowded schools.</p>" + 
+				"<p>Knowledgable parents have learned the hard way that our school facilities planning is dysfunctional. When we had a 110% overcrowding limit on schools, that was used as an excuse NOT to build larger facilities. The reasoning was that eventually the communities will grow older. The logic doesn't make sense, it is a half-baked excuse. Now that the limit was raised to 150% we are still told we cannot build larger schools because the county does not have money for Gaithersburg. The realities and desires of Gaithersburg residents will never align with the county's challenges to operate our school system. </p>" + 
 				"<p>Our city council says they've done well because there is a special tax they'll collect when developers build housing that causes overcrowding. Interesting! but nowhere can we find that the amount of tax they raise from developers is enough to do anything with. To make matters worse, there is no direction on how and when that money will be spent other than if it is not spent, it will go back to the housing developers.</p>" + 
 				"<p>It is obvious that our local government is either unwilling or unable to improve our schools. Something has to change.</p>" + 
 				"<p>The county simply does not have the funding to build schools as fast as Gaithersburg is building housing. </p>" + 
 				"<p>We should look into what it would take to break off from MCPS (Montgomery County Public Schools). How much will it cost to buy the current buildings from MCPS and roll our own school system? </p> " + 
 				"<p>The county is determined to raise our taxes on a bus system called the CCT (Corridor Cities Transitway) in addition to the Ride-On buses we already have which are hardly used. Why not cancel the CCT and spend the money on our schools? If you think education is expensive, try ignorance. </p>" + 
 				"Workable solutions &quot;Team Gaithersburg&quot; would like to see: <ol>" +
-				"<li>(stop annexation and housing development) - <a href =\"https://www.change.org/p/city-of-gaithersburg-limit-gaithersburg-school-overcrowding-to-110\">Sign the petition!</a> We cannot continue building homes faster than the county can build schools. It's already too late and we are not slowing down! Gaithersburg children are going to have to be bussed out of the city in the near future because the schools are overcrowded. No more! Every neighbor must come to city hall to voice their concern. Stop the insanity.</li>" +
+				"<li>(real discussion on annexation and housing development) - <a href =\"https://www.change.org/p/city-of-gaithersburg-roll-our-own-city-of-gaithersburg-school-system\">Sign the petition!</a> By law the city only has to notify residents within two-hundred feet of new development. That's terrible, only 200 ft! This has to change, the city must stop keeping citizens in the dark. We need notifications to be sent in the postal mail to every home within a 2 mile radius of where new development is to take place. We cannot continue building homes faster than the county can build schools. It's already too late and we are not slowing down! Gaithersburg children are going to have to be bussed out of the city in the near future because the schools are overcrowded. No more! Every neighbor must come to city hall to voice their concern. Stop the insanity.</li>" +
 				"<li>(easy but imperfect) - Allow a child to transfer to any underutilized school if their home school is overcrowded. Only parents capable of driving to the new location can do this but for those that can it's better than staying in a crowded environment.</li>" +
-				"<li>(costly but worth it) - We want a dollar amount on how much it would cost to build out the schools in Gaithersburg and build the new High School on new ground. Can the city of Gaithersburg foot the bill? How much of a tax increase might we need to pull this off in 1 to 2 years?</li>" +
-				"<li>(ultimate) - Break off from MCPS and make our own school system. It's no secret that Gaithersburg schools are not rated highly. The best way to ensure an increase in home values is with a strong school system. The only way to make that happen is to take ownership of our schools at the city level. </li>" +
+				"<li>(ultimate) - We want a dollar amount on how much it would cost to purchase existing schools from MCPS and rebuild / modify school structures. Can the city of Gaithersburg foot the bill? Can we encourage the state to fund some of the cost? How much of a tax increase might we need to pull this off in 1 to 2 years? Break off from MCPS and make our own school system. It's no secret that Gaithersburg schools are not rated highly. The best way to ensure an increase in home values is with a strong school system. The only way to make that happen is to take ownership of our schools at the city level. </li>" +
 				"</ol>" + 
 				"Learn more: <ol>" +
 				"<li><a href=\"https://youtu.be/tOp-WSPS3Xs\">The county is straight with us. The county does not have enough money to build more schools. Gaithersburg will not get any schools built and children will be bussed out of Gaithersburg. We are building houses too fast.</a></li>" +
@@ -238,8 +259,8 @@ enyo.kind({
 				"<li><a href=\"https://www.facebook.com/rcesovercrowding/\">Rachel Carson Elementary school blog</a></li>" +
 				"</ol>" + 
 				"<p>Voice your concerns: " + 
-					this.mailTo("cityhall@gaithersburgmd.gov", "Fix our schools", 
-					"I am against the 150% overcrowding you approved for our schools. I'm very upset, how could you do this to our community?") + 
+					this.mailTo("cityhall@gaithersburgmd.gov", "Fix Our Schools", 
+					"I am tired of the finger pointing. I want the city to seriously investigate rolling our own school system. To take ownership and fix our schools!") + 
 				"</p>"
 			}, 
 			
@@ -293,10 +314,13 @@ enyo.kind({
 				"<li>(sensible) - Stop building homes until our schools are large enough to hold the students. Stop annexing new land for the purpose of making homes. Stop approving new housing development. Schools first!</li>" +
 				"<li>(practical) - Public hearing with a real plan for what the ideal Gaithersburg lifestyle should be. Do we want to be a large city with little green space or a suburban community? The original vision of Gaithersburg has been lost and citizens are no longer involved. Let's all get involved!</li>" +
 				"</ol>" + 
-				"Learn more: <ol>" +
+				"<span id = \"learnMoreID\">Learn more:</span> <ol>" +
 				"<li><a href=\"https://www.change.org/p/planning-gaithersburgmd-gov-20878-don-t-let-our-neighborhood-and-schools-become-overdeveloped-over-commercialized-and-traffic-ridden\">Sign the petition to stop the annexation of the Johnson property.</a></li>" +
 				"<li><a href=\"http://towncourier.com/concerned-residents-testify-against-johnson-annexation/\">Gaithersburg wants to annex another 25 acres to create more housing and tax revenue to continue overcrowding our schools</a></li>" +
 				"<li><a href=\"http://www.mymcmedia.org/johnson-property-annexation-petition-draws-opposition-from-community-members/\">Video interviews with citizens about annexation</a></li>" +
+
+				"<li><a href=\"assets/citizens_against_magruder_annexation.pdf\">Magruder annexation is opposed by all residents of Gaithersburg and Montgomery County</a></li>" +
+				"<li><a href=\"assets/magruder_annexation_approved.pdf\">Magruder annexation is approved by the City Council anyway</a></li>" +
 				"</ol>"	+
 				
 				"<h2>Full details on Johnson annexation</h2><div>(from Barbara Brenkworth of Dufief):</div>" + 
@@ -316,9 +340,13 @@ enyo.kind({
 				
 				"<p>The Magruder Property is on the southwest corner near Quince Orchard Highschool. It's where McDonald's, Dunkin Donuts, and Papa John's Pizza currently is. They want to become part of the City of Gaithersburg so they can change to MXD zoning. That means they can do whatever they want including building residential housing in the form of condos. Bill Magruder says that if his property is annexed into Gaithersburg they won't do anything immediately but &ldquo;When the time is right it will be right and having both sides in one municipality will allow us to respond to the market as quickly as we can&rdquo;</p>" + 
 				
-				"<p>Nobody was notified about the Magruder annexation because Gaithersburg rules only require homes within 200 feet be notified. That's a good rule of thumb for a <a href=\"assets/no_crowing_rooster.jpg\">rooster ordinance</a> but a very outdated rule for city planning. Nobody lives within 200 feet of the Magruder shopping center. If this were the county the rule requires a 1 mile radius to be notified. As it stands, extremely few people knew about the Magruder annexation. It flew under the radar and the last time anyone could officially voice a concern has come and gone. The last date for comments was December 16, 2015.</p>" + 
+				"<p>Nobody was notified about the Magruder annexation because Gaithersburg rules only require homes within 200 feet be notified. That's a good rule of thumb for a <a href=\"assets/no_crowing_rooster.jpg\">rooster ordinance</a> but a very outdated rule for city planning. Nobody lives within 200 feet of the Magruder shopping center. If this were the county the rule requires a 1 mile radius to be notified. As it stands, extremely few people knew about the Magruder annexation. It flew under the radar and the last time anyone could officially voice a concern has come and gone. The last date for comments was December 16, 2015. <a href=\"assets/citizens_against_magruder_annexation.pdf\">Read the opposing comments of citizens that did find out</a></p>" + 
 				
 				"<p>Even though the Magruder property is a strip mall now, once it becomes part of Gaithersburg anything can happen. Residential condos 10 stories high are possible.</p>" + 
+				
+				"<h3>BAD NEWS! (Jan. 2016) The Magruder proposal has been approved</h3>" + 
+
+				"<p>See <a href=\"#learnMoreID\">learn more</a> for details.</p>" + 
 				
 				"<p>Voice your concerns: " + 
 					this.mailTo("cityhall@gaithersburgmd.gov", "Overdevelopment", 
@@ -334,6 +362,8 @@ enyo.kind({
 				"<li>(ethical) - Put the ordinance back the way it was. Most citizens were happy with it before the city changed it without involving the community.</li>" +
 				"</ol>" + 
 				"Official response from City government: <ol>" +
+				"<li><a href=\"assets/Dog_Exercise_Area_orig_rules.pdf\">The 2014 dog park rules</a></li>" +
+				"<li><a href=\"assets/Dog_Exercise_Area_2015_changes.pdf\">The 2015 &ldquo;sneak attack&rdquo; dog park rules</a></li>" +
 				"<li><a href=\"assets/Dec_7_2015_dog_park_ammendment_5211912072015115801317.pdf\">The currently proposed changes to our dog park ordinance</a></li>" +
 				"</ol>"	+ 
 				"<p>Voice your concerns: " + 
@@ -438,11 +468,11 @@ enyo.kind({
 				"<li>(reasonable) - If Darline gets 250 signatures, bring Tiny Homes to public hearing so that other neighbors may make Tiny Homes and accessory dwellings</li>" +
 				"</ol>" + 
 				"Learn more: <ol>" +
-				"<li><a href=\"https://youtu.be/Uxwsa_pC05Y\">Aaron asks the council to open Darline's tiny house to the public</a></li>" + 
-				"<li><a href=\"http://wjla.com/news/local/tiny-home-causes-controversy-in-gaithersburg-99692\">See Darline's tiny house</a></li>" +
+				"<li><a href=\"https://youtu.be/Uxwsa_pC05Y\">(video) Aaron asks the council to open Darline's tiny house to the public</a></li>" + 
+				"<li><a href=\"http://wjla.com/news/local/tiny-home-causes-controversy-in-gaithersburg-99692\">(video) See Darline's tiny house</a></li>" +
 				"<li><a href=\"http://www.countryliving.com/homes/real-estate/tiny-house\">44 impressive tiny houses</a></li>" +	
 				"<li><a href=\"http://tinyhouseva.com\">Built to order in Virginia</a></li>" + 
-				"<li><a href=\"http://www.ted.com/talks/alastair_parvin_architecture_for_the_people_by_the_people?language=en\">Architecture for the people by the people</a></li>" + 
+				"<li><a href=\"http://www.ted.com/talks/alastair_parvin_architecture_for_the_people_by_the_people?language=en\">(video) Architecture for the people by the people</a></li>" + 
 				"</ol>"	+ 
 				"<p>Voice your concerns: " + 
 					this.mailTo("cityhall@gaithersburgmd.gov", "Tiny House Legalization", 
