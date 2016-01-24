@@ -171,6 +171,7 @@ enyo.kind({
 				
 				"Related links: <ol>" +
 				"<li><a href=\"https://www.facebook.com/SmallPotatoesBlog/\">Gaithersburg &ldquo;Small Potatoes&rdquo; blog</a></li>" +
+				"<li><a href=\"http://bjohnhayden.com\">John Hayden Reporting on Gaithersburg, Montgomery County, and life</li>" + 
 				"</ol>" + 
 				
 				"<h2>We welcome our city council to respond to our concerns. We will post their official stance on each line item if and when we receive them.</h2>" + 
@@ -353,6 +354,28 @@ enyo.kind({
 					"Our City has no debt, so why do you continuously push for overdevelopment? Are our tax dollars not enough for you that you must find new residents? Why do you even entertain the thought of the Johnson annexation? That will only overcrowd our schools and create even more congestion. Let the county do what it will but cease and desist the overdevelopment of Gaithersburg. ") + 
 				"</p>"				
 			}, 
+			
+			{title: "Tiny House Legalization", 
+				detailsImage: "assets/tiny-house-2.jpg",
+				details: "<p>Across the country Americans are learning they can create their own dream homes on a small scale. They create pride of ownership and live debt-free. Local government prevents our citizens this freedom out of spite and ignorance.</p>" + 
+				"<p>Zuccarelli built a tiny house in her 0.5 acre property but the City condemned it because of zoning. They say it is illegal to have two single family homes in one plat of land. What is the purpose of this zoning? Zucarrelli's little house doesn't compete with the landscape and isn't even visible from the road. The city has stated that if anyone walks into Darline's Tiny Home, even herself, that she will go to jail for 3 months. Because of this, her Tiny Home has been moth-balled for over 2 years. Is this just a power play, preventing Zuccarelli the freedom of using her land to the fullest? We think so. </p>" + 
+				"Workable solutions &quot;Team Gaithersburg&quot; would like to see: <ol>" +
+				"<li>(easy and ethical) - Grant Darline a weekend to show off her Tiny Home to the public and garner signatures. Give Darline 2 weeks to prepare her home for viewing</li>" +
+				"<li>(ethical) - If Darline gets 100 signatures, find a way to make her Tiny Home legal</li>" +
+				"<li>(reasonable) - If Darline gets 250 signatures, bring Tiny Homes to public hearing so that other neighbors may make Tiny Homes and accessory dwellings</li>" +
+				"</ol>" + 
+				"Learn more: <ol>" +
+				"<li><a href=\"https://youtu.be/Uxwsa_pC05Y\">(video) Aaron asks the council to open Darline's tiny house to the public</a></li>" + 
+				"<li><a href=\"http://wjla.com/news/local/tiny-home-causes-controversy-in-gaithersburg-99692\">(video) See Darline's tiny house</a></li>" +
+				"<li><a href=\"http://www.countryliving.com/homes/real-estate/tiny-house\">44 impressive tiny houses</a></li>" +	
+				"<li><a href=\"http://tinyhouseva.com\">Built to order in Virginia</a></li>" + 
+				"<li><a href=\"http://www.ted.com/talks/alastair_parvin_architecture_for_the_people_by_the_people?language=en\">(video) Architecture for the people by the people</a></li>" + 
+				"</ol>"	+ 
+				"<p>Voice your concerns: " + 
+					this.mailTo("cityhall@gaithersburgmd.gov", "Tiny House Legalization", 
+					"I would like to explore and learn more about Tiny Houses. I would like to see the inside of Darline's Tiny House. I wish you would look at the excitement around Tiny Houses across the country and see this as an opportunity to lead by example. ") + 
+				"</p>"				
+			}, 			
 
 			{title: "Dog Park repurposed", 
 				detailsImage: "assets/dogpark.jpg",
@@ -455,31 +478,25 @@ enyo.kind({
 					this.mailTo("cityhall@gaithersburgmd.gov", "A chicken named Luna", 
 					"All life has value, even a chicken's. You should apologize for Luna's senseless death. ") + 
 				"</p>"				
-			}, 
+			},
 
-
-			{title: "Tiny House Legalization", 
-				detailsImage: "assets/tiny-house-2.jpg",
-				details: "<p>Across the country Americans are learning they can create their own dream homes on a small scale. They create pride of ownership and live debt-free. Local government prevents our citizens this freedom out of spite and ignorance.</p>" + 
-				"<p>Zuccarelli built a tiny house in her 0.5 acre property but the City condemned it because of zoning. They say it is illegal to have two single family homes in one plat of land. What is the purpose of this zoning? Zucarrelli's little house doesn't compete with the landscape and isn't even visible from the road. The city has stated that if anyone walks into Darline's Tiny Home, even herself, that she will go to jail for 3 months. Because of this, her Tiny Home has been moth-balled for over 2 years. Is this just a power play, preventing Zuccarelli the freedom of using her land to the fullest? We think so. </p>" + 
-				"Workable solutions &quot;Team Gaithersburg&quot; would like to see: <ol>" +
-				"<li>(easy and ethical) - Grant Darline a weekend to show off her Tiny Home to the public and garner signatures. Give Darline 2 weeks to prepare her home for viewing</li>" +
-				"<li>(ethical) - If Darline gets 100 signatures, find a way to make her Tiny Home legal</li>" +
-				"<li>(reasonable) - If Darline gets 250 signatures, bring Tiny Homes to public hearing so that other neighbors may make Tiny Homes and accessory dwellings</li>" +
-				"</ol>" + 
-				"Learn more: <ol>" +
-				"<li><a href=\"https://youtu.be/Uxwsa_pC05Y\">(video) Aaron asks the council to open Darline's tiny house to the public</a></li>" + 
-				"<li><a href=\"http://wjla.com/news/local/tiny-home-causes-controversy-in-gaithersburg-99692\">(video) See Darline's tiny house</a></li>" +
-				"<li><a href=\"http://www.countryliving.com/homes/real-estate/tiny-house\">44 impressive tiny houses</a></li>" +	
-				"<li><a href=\"http://tinyhouseva.com\">Built to order in Virginia</a></li>" + 
-				"<li><a href=\"http://www.ted.com/talks/alastair_parvin_architecture_for_the_people_by_the_people?language=en\">(video) Architecture for the people by the people</a></li>" + 
+			{title: "Bloopers", 
+				detailsImage: "assets/bloopers.jpg",
+				details: "<p>Here are links to interesting things that happened or have been discussed in Gaithersburg.</p>" + 
+				"<ol>" +
+				"<li><a href=\"https://www.facebook.com/SmallPotatoesBlog/videos/vb.472440889453219/1041206809243288/?type=2&theater\">(video) Standing room only at City Hall.</a> Tell me why we need to spend $3 million on a new City Hall when nobody comes to the one we have now?</li>" + 
+				"<li><a href=\"http://bjohnhayden.com/2015/10/16/gaithersburg-mayor-and-city-council-election-is-almost-a-secret/\">&rdquo;Knock knock I'm running for Mayor&ldquo; but nobody knew there was an election?</a></li>" + 
+				"<li><a href=\"https://www.youtube.com/watch?v=qf-YOuQz8t0\">(video) &ldquo;Nugget&rdquo; the rooster and the &rdquo;No bell peace prize&ldquo;</a></li>" + 
+				"<li><a href=\"https://wallethub.com/edu/best-worst-small-cities-to-live-in/16581/\">Gaithersburg rated #305 compared to Rockville #23 &ldquo;Best place to live&rdquo;</a></li>" + 
+				"<li><a href=\"https://www.facebook.com/SmallPotatoesBlog/posts/994746033889366\">Kentlands wants $900,000 from Gaithersburg to help fix $2 million retaining wall collapse</a></li>" + 
+				"<li><a href=\"https://wallethub.com/edu/cities-with-the-most-and-least-ethno-racial-and-linguistic-diversity/10264/\">Gaithersburg is most diverse city in the nation.</a> Then how come we don't have Spanish translators at City Hall?</li>" + 
+				//"<li><a href=\"?\">?</a></li>" + 
 				"</ol>"	+ 
-				"<p>Voice your concerns: " + 
-					this.mailTo("cityhall@gaithersburgmd.gov", "Tiny House Legalization", 
-					"I would like to explore and learn more about Tiny Houses. I would like to see the inside of Darline's Tiny House. I wish you would look at the excitement around Tiny Houses across the country and see this as an opportunity to lead by example. ") + 
+				"<p>Email your bloopers to: " + 
+					this.mailTo("aaron@chatnbike.com", "Gaithersburg Bloopers", 
+					"I'd like to share the following: ") + 
 				"</p>"				
-			}			
-			
+			}
 				
 		];
 	}
