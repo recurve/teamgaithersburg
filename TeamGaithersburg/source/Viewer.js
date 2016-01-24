@@ -207,11 +207,38 @@ enyo.kind({
 				"</p>"				
 			}, 
 
+			{title: "Petitions", 
+				detailsImage: "assets/petition.jpg",
+				details: "<p>Look over these petitions and sign what appeals to you</p>" + 
+				"<ol>" + 
+				"<li><a href=\"https://www.change.org/p/city-of-gaithersburg-roll-our-own-city-of-gaithersburg-school-system\">Fix Gaithersburg Schools</a></li>" + 
+				"<li><a href=\"https://www.change.org/p/planning-gaithersburgmd-gov-20878-don-t-let-our-neighborhood-and-schools-become-overdeveloped-over-commercialized-and-traffic-ridden\">Sign the petition to stop the annexation of the Johnson property.</a></li>" +
+				"<li><a href=\"https://www.change.org/p/city-of-gaithersburg-maryland-lift-rooster-ban\">Pet equality</a></li>" +
+				"</ol>" + 
+				"<p>Have a petition you'd like to list here? Let us know: " + 
+					this.mailTo("aaron@chatnbike.com", "Petition Idea - Team Gaithersburg", 
+					"I would like to start a petition about...") + 
+				"</p>"				
+			}, 
+
+// 			{title: "Rosey's Thorns", 
+// 				detailsImage: "assets/rosey_thorn.jpg",
+// 				details: "<p>My name is Rosenzweig. It means &ldquo;rose branch&ldquo; in German. That is because I am not pretty enough to be the flower and not feisty enough to be the thorn, I am the support structure. </p>" + 
+// 				"<p>I have tried to effect positive change in Gaithersburg. Showing facts, pointing to issues, and offering solutions. The city council of Gaithersburg does not care.</p>" + 
+// 				"<p>Real change requires new leadership. If you want me to be part of that leadership then I need you to be my &ldquo;Thorns.&rdquo; As one of Rosey's Thorns you need to be courageous enough to speak your mind, to come to city hall, and support our city. I don't just want I need you to tell me when I'm out of line and what the real world issues are that we can solve. </p>" + 
+// 				"</ol>" + 
+// 				"<p>Have a petition you'd like to list here? Let us know: " + 
+// 					this.mailTo("aaron@chatnbike.com", "Petition Idea - Team Gaithersburg", 
+// 					"I would like to start a petition about...") + 
+// 				"</p>"				
+// 			}, 
+
 			{title: "Fix Our Community",
 				detailsImage: "assets/diverse-community-pic.jpg",
 				details: 
 				"<p>Gaithersburg is made of diverse cultures and backgrounds. We'd like to see it stay that way. There are a number of issues that neighbors in Gaithersburg want addressed. Some are appalling, like the treatment of miniority neighborhoods by city government. Other issues are just common sense, there is no reason NOT to address them. Residents have voiced these issues with Team Gaithersburg because the city is not listening to them.</p>" + 				
 				"Workable solutions &quot;Team Gaithersburg&quot; would like to see: <ol>" +
+				"<li><a href=\"https://youtu.be/sH1J-uFLgfg\">(video) Aaron asks the city to be transparent</a> by invoking the Public Information Act to find out not only how much money is spent on the Gaithersburg Book Festival but also to see the results of the internal investigation into abuse of process by city staff. </li>" +
 				"<li><a href=\"https://youtu.be/g9STJZMNwak\">(video) Aaron asks the city to apologize</a> for the complacency and disrespect the City showed minority residents when they were the victim of a hate crime destroying their cars in the East Deer Park community. The city never identified the perpetrator and then not even seven days passed before giving the residents citations for unsightly vehicles. </li>" +
 				"<li>When an ethnic minority phones in an animal abuse complaint, don't blow them off. Take their complaint seriously. Twice a hispanic woman phoned in a complaint about a dog being left out during snow fall without shelter. Her voice was ignored.</li>" +
 				"<li>A hispanic person was given a citation for a car that was in their car port. The car did not have tags and they were not driving it. I can understand if a car is parked on the street and not moved for a period of time that the city would give a person a citation. In this case? Maybe the city has the legal right to do it but I question the purpose of harassing someone who has kept their car in their car-port.</li>" +
@@ -484,6 +511,7 @@ enyo.kind({
 				detailsImage: "assets/bloopers.jpg",
 				details: "<p>Here are links to interesting things that happened or have been discussed in Gaithersburg.</p>" + 
 				"<ol>" +
+				"<li><a href=\"https://www.facebook.com/SmallPotatoesBlog/posts/1089219641108671\">Citizen estimates $200,000 is the annual cost of the Gaithersburg book festival.</a> Tell me why the organizers of &ldquo;Kentlands Day&rdquo; must divulge their operating cost but the city does not?</li>" + 
 				"<li><a href=\"https://www.facebook.com/SmallPotatoesBlog/videos/vb.472440889453219/1041206809243288/?type=2&theater\">(video) Standing room only at City Hall.</a> Tell me why we need to spend $3 million on a new City Hall when nobody comes to the one we have now?</li>" + 
 				"<li><a href=\"http://bjohnhayden.com/2015/10/16/gaithersburg-mayor-and-city-council-election-is-almost-a-secret/\">&rdquo;Knock knock I'm running for Mayor&ldquo; but nobody knew there was an election?</a></li>" + 
 				"<li><a href=\"https://www.youtube.com/watch?v=qf-YOuQz8t0\">(video) &ldquo;Nugget&rdquo; the rooster and the &rdquo;No bell peace prize&ldquo;</a></li>" + 
