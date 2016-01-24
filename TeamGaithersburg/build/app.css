@@ -1786,3 +1786,7 @@
 .panels-sample-flickr-image.tall {
 	height: 100%;
 }
+
+.DefaultViewBody {
+	display: none;
+}
