@@ -247,6 +247,17 @@ enyo.kind({
 				"<li>Rain gardens are not granted the same respect as rain barrels. Why not? They work all the time and are generally better than rain barrels, what’s the difference? You can’t get rebates for installing a rain garden but you can if you install a rain barrel. </li>" +
 				"<li>Leaf and yard waste pickup only happens if you put it in a paper bag. If you put it in a reusable container, the city won’t grab it. Why? In the county if you put a yard-waste sticker on the container they’ll take it. Isn’t that better? Reduce-Reuse-Recycle… a plastic container beats a paper bag any day. </li>" +
 				"</ol>" + 
+				"Official response from City government: <ol>" +
+				"<li><a href=\"assets/Rosenzweig-MPIA-Request-02302016.pdf\">City's response to invoking Maryland Public Information Act (click to download)</a> " +
+				"The city has charged Aaron Rosenzweig roughly $230 to type up a document which says very little. They could not even provide a net profit / loss number which makes it extremely curious. Conversely, for &ldquo;Kentlands Day,&rdquo; they required the organizers to provide all of this information. It's inconsistent to ask citizens to provide this information but local government does not do the same for us. We deserve to know how our taxpayer dollars are spent. In <a href=\"assets/Kentlands_Day_Andrew_Ross_TCGThree0515Web.pdf\">this edition of the Town Courier newspaper</a> we learn that &ldquo;Kentlands Day&rdquo; costed $40k to organize but booth sales brought in $35k which is near break even. They also paid the city $2k in funds. The estimated economic impact was $200k for Kentlands businesses. Why can't we get this type of information about the Gaithersburg Book Festival? Why is it hidden from view? Some citizens speculate the Gaithersburg Book Fair operates on a $150-200k net loss. " + 
+				"<p>The city refuses to say what Animal Control did to Aaron Rosenzweig and if they did any corrective action. If they were in the clear, they would come out and say it. Aaron meticulously documented what happened to his family, it was evil and it is shameful the city will not own up to it. </p>" + 
+				"<p>The city says every single dog bite complaint is &ldquo;founded&rdquo; - that means &ldquo;legitimate.&rdquo; This is troubling for two reasons: </p>" + 
+				"<ul>" + 
+					"<li>Council Member Ryan Speigel’s dog was reported as biting someone but Ryan told me it is a little tiny dog and never bit anyone. Still, he gave up his dog to spend a few days under Animal Control’s care to &ldquo;watch for aggressive behavior.&rdquo; So at least one dog bite complaint was unfounded. They cannot say they all were founded.</li>" + 
+					"<li>The Director of Animal Control, Lisa Holland, told Aaron Rosenzweig they often investigate fraudulent dog bite complaints where people are fighting over a parking lot so they use her department to harass their neighbor. She told me it happens all the time. Was she not telling the truth? Was she exaggerating? Or is the city's reporting flawed?</li>" + 
+				"</ul>" + 
+				"</li>" + 
+				"</ol>"	+ 
 				"<p>Voice your concerns: " + 
 					this.mailTo("cityhall@gaithersburgmd.gov", "Fix Our Community", 
 					"I want you to address the problems identified by Team Gaithersburg that are hurting our community. ") + 
