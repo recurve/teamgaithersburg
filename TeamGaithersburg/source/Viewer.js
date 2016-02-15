@@ -221,6 +221,37 @@ enyo.kind({
 				"</p>"				
 			}, 
 
+			{title: "Lack of Transparency", 
+				detailsImage: "assets/transparency_concealment.jpg",
+				topicFooterImage: "assets/Straight-Talk.jpg",
+				details: 
+				"<p>&ldquo;A lack of transparency results in distrust and a deep sense of insecurity&rdquo; &mdash; Dalai Lama</p>" + 
+				"<p>Why is it that only a handful of people know how the City of Gaithersburg operates? Perhaps it is because you need to spend money to find out. Not just $25 or $50 but hundreds and possibly thousands of dollars. This is why we've setup a grass-roots <a href=\"?\">funding campaign</a> to get the word out.</p>" + 
+				"<p>Mayor Jud Ashman said his #1 core value is <a href = \"assets/Jud_Ashman_Transparency_main.jpg\">&ldquo;Responsive, open government&rdquo;</a> </p>" + 
+				"<p>Mayor Jud Ashman further said with regards to &rdquo;<a href = \"assets/Jud_Ashman_Transparency.jpg\">Fostering open, responsive government:</a>  We must always operate openly, invite public participation, and respond to feedback.  This is a core value for me.&ldquo;</p>" +
+				"<p>The Mayor claims he is open but his actions speak otherwise. When you come to the Mayor with real issues and ask for transparency, the Mayor responds with <a href = \"https://www.youtube.com/watch?v=aAzcXXOmXgc&t=3m13s\">(video) no comments</a></p>" +  
+				"<p>When you ask the Mayor how much it costs to have our annual book festival, he wants to charge you for the information. How much he'll charge you depends on who is asking, some people have been told it will cost &ldquo;thousands of dollars&rdquo; to get that information. Organizers of non-city-sponsored events in the Kentlands must provide full operating costs to city government free of charge. When we ask the city how much city sponsored events cost we get the runaround. It is inconsistent &mdash; a double standard.</p>" + 
+				"<p>Aaron Rosenzweig asked <a href=\"https://youtu.be/sH1J-uFLgfg\">in person</a> and <a href=\"assets/aaron_foi_2016_Jan_19.pdf\">in writing</a> to find out both the cost of operating the book festival and also statistics on Animal Control. He was told <a href=\"assets/Rosenzweig-MPIA-Request-02302016.pdf\">it would cost $236.12</a> &mdash; Aaron challenged our local leaders to provide all of this information on the city website free for anyone to view. Aaron challenged them to tell the world what city staff did to his family. The city refused, what are they hiding?</p>" + 
+				"<p>Darline Bell-Zuccarelli asked <a href=\"assets/Darline_request_for_information.pdf\">in writing</a> to find out the cost of operating the book festival, the amont of money spent on helping the homeless, and the amount of money to be spent on the new police department. She was told <a href=\"assets/?\">it would cost $800</a></p>" + 
+				"Analysis: <ol>" +
+				"<li>Why should we investigate the cost of the Book Festival? In a word &mdash; consistency. For &ldquo;Kentlands Day,&rdquo; the city required the organizers to provide all of this information free of charge. It's inconsistent to ask citizens to provide this information but local government does not do the same for us. We deserve to know how our taxpayer dollars are spent. In <a href=\"assets/Kentlands_Day_Andrew_Ross_TCGThree0515Web.pdf\">this edition of the Town Courier newspaper</a> we learn that &ldquo;Kentlands Day&rdquo; costed $40k to organize but booth sales brought in $35k which is near break even. They also paid the city $2k in funds. The estimated economic impact was $200k for Kentlands businesses. Why can't we get this type of information about the Gaithersburg Book Festival? Why is it hidden from view? Why must Aaron spend $230 to get an answer? Some citizens speculate the Gaithersburg Book Fair operates on a $150-200k net loss. </li>" + 
+				"<li>Why should we investigate city staff? Stated simply &mdash; it could happen to you. If somebody does not like you they can use city resources to turn your life upside down. The city refuses to say what Animal Control did to Aaron Rosenzweig and if they did any corrective action. If they were in the clear, they would come out and say it. Aaron meticulously documented what happened to his family, it was evil and it is shameful the city will not own up to it: <ul>" + 
+				"<li><a href=\"assets/request_for_Internal_Investigation.pdf\">Request to investigate abuse of process</a></li>" + 
+				"<li><a href=\"assets/details_of_abuse.pdf\">Details of abuse</a></li>" + 
+				"<li><a href=\"assets/city_staff_Internal_Investigation.pdf\">The only published results of investigation</a></li>" + 
+				"</ul></li>" + 
+				"<li>Why should we care about dog bite statistics? In a word &mdash; accountability. We need to know how city resources are being used. If each department is allowed to police themselves with zero accountability, that is a problem. The Director of Animal Control, Lisa Holland, told Aaron Rosenzweig they often investigate fraudulent dog bite complaints where people are fighting over a parking spot so they use her department to harass their neighbor. She says it happens all the time. Unfortunately the city only records dog bite statistics when they can verify that a dog actually bit a person. All other incidents are not recorded. This is why all 246 recorded dog bite complaints are verifiable: <ul>" + 
+				"<li><a href=\"assets/evading_simple_questions.pdf\">The city evades issues surrounding dog bite statistics</a></li>" + 
+				"<li>Council Member Ryan Speigel’s dog was reported as biting someone but Ryan said it is a little tiny dog and never bit anyone. Still, he gave up his dog to spend a few days under Animal Control’s care to &ldquo;watch for aggressive behavior.&rdquo; So at least one dog bite complaint was unfounded. They cannot say they all were founded. Since the dog bite complaint could not be verified, the record was cast aside. Ryan has first hand experience with misuse of city resources yet does nothing to prevent it from happening to you.</li>" + 
+				"</ul></li>" + 
+				"<li>Why should we care about spending for the homeless? In a word &mdash; justice. It's one thing to say we help those who need financial assistance. It's another thing to actually help them and how do we help them? It's reasonable to ask and find out.</li>" + 
+				"<li>Why should we care about the costs involved with a new Police Department? In a word &mdash; responsibility. The new police department is also supposed to house a new City Hall. Do we need a new building more than raising wages of our Police Department and also better staffing the Police Department? People are calling in with drug deal sightings and asking for Police assistance but they are short staffed. Seems better to invest our taxpayer money in man-power instead of building fancier facilities. Also, hardly anyone ever goes to our current City Hall, what is the reason for wanting something bigger?</li>" + 
+				"</ol>"	+ 				"<p>Voice your concerns: " + 
+					this.mailTo("cityhall@gaithersburgmd.gov", "Fix Our Community", 
+					"I want you to charge reasonable fees no more than $50 when citizens request information. I want you to reply to citizens in a clear and easy to understand matter. Moreover, I'm increasingly concerned with our semi-transparent government, stop hiding information from us. ") + 
+				"</p>"				
+			}, 
+
 // 			{title: "Rosey's Thorns", 
 // 				detailsImage: "assets/rosey_thorn.jpg",
 // 				details: "<p>My name is Rosenzweig. It means &ldquo;rose branch&ldquo; in German. That is because I am not pretty enough to be the flower and not feisty enough to be the thorn, I am the support structure. </p>" + 
@@ -239,6 +270,7 @@ enyo.kind({
 				"<p>Gaithersburg is made of diverse cultures and backgrounds. We'd like to see it stay that way. There are a number of issues that neighbors in Gaithersburg want addressed. Some are appalling, like the treatment of miniority neighborhoods by city government. Other issues are just common sense, there is no reason NOT to address them. Residents have voiced these issues with Team Gaithersburg because the city is not listening to them.</p>" + 				
 				"Workable solutions &quot;Team Gaithersburg&quot; would like to see: <ol>" +
 				"<li><a href=\"https://youtu.be/sH1J-uFLgfg\">(video) Aaron asks the city to be transparent</a> by invoking the Public Information Act to find out not only how much money is spent on the Gaithersburg Book Festival but also to see the results of the internal investigation into abuse of process by city staff. </li>" +
+				"<li><a href=\"http://www.thesentinel.com/mont/newsx/local/item/2995-howling-and-crowing-at-the-latest-g-burg-council-meeting\">Howling and crowing at City Hall</a></li>" +
 				"<li><a href=\"https://youtu.be/g9STJZMNwak\">(video) Aaron asks the city to apologize</a> for the complacency and disrespect the City showed minority residents when they were the victim of a hate crime destroying their cars in the East Deer Park community. The city never identified the perpetrator and then not even seven days passed before giving the residents citations for unsightly vehicles. </li>" +
 				"<li>When an ethnic minority phones in an animal abuse complaint, don't blow them off. Take their complaint seriously. Twice a hispanic woman phoned in a complaint about a dog being left out during snow fall without shelter. Her voice was ignored.</li>" +
 				"<li>A hispanic person was given a citation for a car that was in their car port. The car did not have tags and they were not driving it. I can understand if a car is parked on the street and not moved for a period of time that the city would give a person a citation. In this case? Maybe the city has the legal right to do it but I question the purpose of harassing someone who has kept their car in their car-port.</li>" +
@@ -247,17 +279,6 @@ enyo.kind({
 				"<li>Rain gardens are not granted the same respect as rain barrels. Why not? They work all the time and are generally better than rain barrels, what’s the difference? You can’t get rebates for installing a rain garden but you can if you install a rain barrel. </li>" +
 				"<li>Leaf and yard waste pickup only happens if you put it in a paper bag. If you put it in a reusable container, the city won’t grab it. Why? In the county if you put a yard-waste sticker on the container they’ll take it. Isn’t that better? Reduce-Reuse-Recycle… a plastic container beats a paper bag any day. </li>" +
 				"</ol>" + 
-				"Official response from City government: <ol>" +
-				"<li><a href=\"assets/Rosenzweig-MPIA-Request-02302016.pdf\">City's response to invoking Maryland Public Information Act (click to download)</a> " +
-				"The city has charged Aaron Rosenzweig roughly $230 to type up a document which says very little. They could not even provide a net profit / loss number which makes it extremely curious. Conversely, for &ldquo;Kentlands Day,&rdquo; they required the organizers to provide all of this information. It's inconsistent to ask citizens to provide this information but local government does not do the same for us. We deserve to know how our taxpayer dollars are spent. In <a href=\"assets/Kentlands_Day_Andrew_Ross_TCGThree0515Web.pdf\">this edition of the Town Courier newspaper</a> we learn that &ldquo;Kentlands Day&rdquo; costed $40k to organize but booth sales brought in $35k which is near break even. They also paid the city $2k in funds. The estimated economic impact was $200k for Kentlands businesses. Why can't we get this type of information about the Gaithersburg Book Festival? Why is it hidden from view? Some citizens speculate the Gaithersburg Book Fair operates on a $150-200k net loss. " + 
-				"<p>The city refuses to say what Animal Control did to Aaron Rosenzweig and if they did any corrective action. If they were in the clear, they would come out and say it. Aaron meticulously documented what happened to his family, it was evil and it is shameful the city will not own up to it. </p>" + 
-				"<p>The city says every single dog bite complaint is &ldquo;founded&rdquo; - that means &ldquo;legitimate.&rdquo; This is troubling for two reasons: </p>" + 
-				"<ul>" + 
-					"<li>Council Member Ryan Speigel’s dog was reported as biting someone but Ryan told me it is a little tiny dog and never bit anyone. Still, he gave up his dog to spend a few days under Animal Control’s care to &ldquo;watch for aggressive behavior.&rdquo; So at least one dog bite complaint was unfounded. They cannot say they all were founded.</li>" + 
-					"<li>The Director of Animal Control, Lisa Holland, told Aaron Rosenzweig they often investigate fraudulent dog bite complaints where people are fighting over a parking lot so they use her department to harass their neighbor. She told me it happens all the time. Was she not telling the truth? Was she exaggerating? Or is the city's reporting flawed?</li>" + 
-				"</ul>" + 
-				"</li>" + 
-				"</ol>"	+ 
 				"<p>Voice your concerns: " + 
 					this.mailTo("cityhall@gaithersburgmd.gov", "Fix Our Community", 
 					"I want you to address the problems identified by Team Gaithersburg that are hurting our community. ") + 
@@ -418,8 +439,11 @@ enyo.kind({
 			{title: "Dog Park repurposed", 
 				detailsImage: "assets/dogpark.jpg",
 				details: "<p>Our local government changed the rules for our dog park without involving our citizens. Their end game is to reduce usage so that they can &rdquo;repurpose it for something else.&ldquo;</p>" +
-				"<p>Friendships were broken. People who used to go to the park were kicked out. I guess we are just running out of green space. Listen to how the City Manager says: &ldquo;usage just goes down so we can repurpose the dog park for something else&rdquo;: <a href=\"https://www.youtube.com/watch?v=j-f3fbdjIgQ#t=3m33s\">watch the video</a></p>" +
-				"Workable solutions &quot;Team Gaithersburg&quot; would like to see: <ol>" +
+				"<p>Friendships were broken. People who used to go to the park were kicked out. I guess we are just running out of green space. Listen to how the City Manager says: <a href=\"https://www.youtube.com/watch?v=j-f3fbdjIgQ#t=3m33s\">&ldquo;usage just goes down so we can repurpose the dog park for something else&rdquo;</a> Then later on Feb. 2, 2016 Tony says <a href=\"https://youtu.be/Es7KxrhkLls\">&ldquo;We could make more money if we turn the dog park into a cricket field.&rdquo;</a></p>" +
+				"More info: <ol>" + 
+				"<li><a href=\"http://www.thesentinel.com/mont/newsx/local/item/2995-howling-and-crowing-at-the-latest-g-burg-council-meeting\">Howling and crowing at City Hall</a></li>" +
+				"</ol>" + 				
+				"Workable solutions &quot;Team Gaithersburg&quot; would like to see: <ol>" + 
 				"<li>(ethical) - Put the ordinance back the way it was. Most citizens were happy with it before the city changed it without involving the community.</li>" +
 				"</ol>" + 
 				"Official response from City government: <ol>" +
