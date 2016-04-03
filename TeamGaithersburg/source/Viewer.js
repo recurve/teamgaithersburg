@@ -14,7 +14,7 @@ enyo.kind({
 		]},
 		{name: "pictureView", fit: true, kind: "FittableRows", classes: "enyo-fit panels-sample-flickr-main", components: [
 			{name: "backToolbar", kind: "onyx.Toolbar", showing: false, components: [
-				{kind: "onyx.Button", content: "Back", ontap: "showList"}
+				{kind: "onyx.Button", content: "Back to Topics", ontap: "showList"}
 			]},
 			{fit: true, style: "position: relative;", name: "detailScroller", kind: enyo.Scroller, classes: "detailScroller", components: [
 				{name: "topicImage", kind: "Image", showing: false,  
