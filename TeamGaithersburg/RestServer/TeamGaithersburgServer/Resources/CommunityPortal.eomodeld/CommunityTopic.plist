@@ -1,0 +1,27 @@
+{
+    attributes = (
+        {columnName = details; name = details; prototypeName = varcharLarge; }, 
+        {
+            allowsNull = Y; 
+            columnName = detailsImage; 
+            name = detailsImage; 
+            prototypeName = varchar255; 
+        }, 
+        {allowsNull = N; name = id; prototypeName = id; }, 
+        {columnName = sortOrder; name = sortOrder; prototypeName = intNumber; }, 
+        {columnName = title; name = title; prototypeName = varchar255; }, 
+        {
+            allowsNull = Y; 
+            columnName = topicFooterImage; 
+            name = topicFooterImage; 
+            prototypeName = varchar255; 
+        }
+    ); 
+    attributesUsedForLocking = (details, detailsImage, id, sortOrder, title, topicFooterImage); 
+    className = "com.teamgaithersburg.model.CommunityTopic"; 
+    classProperties = (details, detailsImage, sortOrder, title, topicFooterImage); 
+    externalName = CommunityTopic; 
+    fetchSpecificationDictionary = {}; 
+    name = CommunityTopic; 
+    primaryKeyAttributes = (id); 
+}

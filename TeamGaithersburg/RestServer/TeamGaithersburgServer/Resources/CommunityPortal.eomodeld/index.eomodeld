@@ -1,0 +1,37 @@
+{
+    EOModelVersion = "2.1"; 
+    adaptorName = JDBC; 
+    connectionDictionary = {
+        URL = "jdbc:mysql://localhost/teamgaithersburg"; 
+        driver = "com.mysql.jdbc.Driver"; 
+        password = trailmix78; 
+        username = teamgaithersburg; 
+    }; 
+    entities = (
+        {
+            className = "com.teamgaithersburg.model.AnonymousTipLine"; 
+            name = AnonymousTipLine; 
+        }, 
+        {
+            className = "com.teamgaithersburg.model.CommunityTopic"; 
+            name = CommunityTopic; 
+        }
+    ); 
+    userInfo = {
+        "_EntityModeler" = {
+            activeDatabaseConfigName = Default; 
+            databaseConfigs = {
+                Default = {
+                    adaptorName = JDBC; 
+                    connectionDictionary = {
+                        URL = "jdbc:mysql://localhost/teamgaithersburg"; 
+                        driver = "com.mysql.jdbc.Driver"; 
+                        password = trailmix78; 
+                        username = teamgaithersburg; 
+                    }; 
+                    prototypeEntityName = EOJDBCMySQLPrototypes; 
+                }; 
+            }; 
+        }; 
+    }; 
+}

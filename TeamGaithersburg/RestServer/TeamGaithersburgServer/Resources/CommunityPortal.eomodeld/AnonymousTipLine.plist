@@ -1,0 +1,37 @@
+{
+    attributes = (
+        {columnName = body; name = body; prototypeName = varchar1000; }, 
+        {
+            allowsNull = Y; 
+            columnName = byWhom; 
+            name = byWhom; 
+            prototypeName = varchar255; 
+        }, 
+        {
+            columnName = createdWhen; 
+            name = createdWhen; 
+            prototypeName = dateTime; 
+            userInfo = {
+                "_EntityModeler" = {
+                    documentation = "when the user saved it. Might be much earlier than \"savedWhen\" if the user is not connected to the internet. "; 
+                }; 
+            }; 
+        }, 
+        {allowsNull = N; name = id; prototypeName = id; }, 
+        {
+            columnName = savedWhen; 
+            name = savedWhen; 
+            prototypeName = dateTime; 
+            userInfo = {"_EntityModeler" = {documentation = "when it was saved in the database"; }; }; 
+        }, 
+        {columnName = subject; name = subject; prototypeName = varchar255; }
+    ); 
+    attributesUsedForLocking = (body, byWhom, id, subject); 
+    className = "com.teamgaithersburg.model.AnonymousTipLine"; 
+    classProperties = (body, byWhom, createdWhen, savedWhen, subject); 
+    externalName = AnonymousTipLine; 
+    fetchSpecificationDictionary = {}; 
+    internalInfo = {"_javaClientClassName" = AnonymousTipLine; }; 
+    name = AnonymousTipLine; 
+    primaryKeyAttributes = (id); 
+}

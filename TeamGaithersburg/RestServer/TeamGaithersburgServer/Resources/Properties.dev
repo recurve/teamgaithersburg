@@ -1,0 +1,9 @@
+# click to open
+wolips.password=yourpassword
+er.component.clickToOpen=true
+er.extensions.ERXApplication.developmentMode=true
+
+dbConnectURLGLOBAL=jdbc:mysql://localhost/teamgaithersburg
+dbConnectUserGLOBAL=teamgaithersburg
+dbConnectPasswordGLOBAL=trailmix78
+
