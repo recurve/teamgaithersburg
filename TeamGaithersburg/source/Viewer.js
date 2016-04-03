@@ -5,26 +5,11 @@ enyo.kind({
 	arrangerKind: "CollapsingArranger",
 	components: [
 		{layoutKind: "FittableRowsLayout", components: [
-			/*
-			{kind: "onyx.Toolbar", components: [
-				{kind: "onyx.InputDecorator", layoutKind: "FittableColumnsLayout", components: [
-					{name: "searchInput", fit: true, kind: "onyx.Input", value: "Golden Campine Rooster", onchange: "search"},
-					{kind: "Image", src: "assets/search-input-search.png"}
-				]},
-				{name: "searchSpinner", kind: "Image", src: "assets/spinner.gif", showing: false}
-			]},
-			*/
 			{kind: "List", fit: true, touch: true, onSetupItem: "setupItem", components: [
 				{name: "item", ontap: "itemTap", classes: "panels-sample-flickr-item enyo-border-box", components: [
 					/*{name: "thumbnail", kind: "Image", classes: "panels-sample-flickr-thumbnail"},*/
 					{name: "title", allowHtml: true, classes: "panels-sample-flickr-title"}
 				]},
-				/*
-				{name: "more", components: [
-					{kind: "onyx.Button", content: "more photos", classes: "onyx-dark panels-sample-flickr-more-button", ontap: "more"},
-					{name: "moreSpinner", kind: "Image", src: "assets/spinner.gif", classes: "panels-sample-flickr-more-spinner"}
-				]}
-				*/
 			]}
 		]},
 		{name: "pictureView", fit: true, kind: "FittableRows", classes: "enyo-fit panels-sample-flickr-main", components: [
@@ -38,13 +23,9 @@ enyo.kind({
 				{name: "topicFooterImage", kind: "Image", showing: false,  
 					classes: "panels-sample-flickr-center"}
 			
-				/*{name: "flickrImage", kind: "Image", showing: false, onload: "imageLoaded", onerror: "imageLoaded", 
-					classes: "enyo-fit panels-sample-flickr-center panels-sample-flickr-image"},*/
-				/*{name: "imageSpinner", kind: "Image", src: "assets/spinner-large.gif", showing: false, 
-					classes: "enyo-fit panels-sample-flickr-center"}*/
 			]}
 		]},
-		{name: "flickrSearch", kind: "Search", onResults: "searchResults"}
+		{name: "communityTopicFetch", kind: "CommunityTopic", onResults: "communityTopicResults"}
 	],
 	rendered: enyo.inherit(function(sup) {
 		return function() {
@@ -60,17 +41,12 @@ enyo.kind({
 		};
 	}),
 	search: function() {
-		//this.searchText = this.$.searchInput.getValue();
 		this.page = 0;
 		this.results = [];
-		//this.$.searchSpinner.show();
-		//this.$.flickrSearch.search(this.searchText);
-		this.teamGaithersburgResults();
+		this.$.communityTopicFetch.search();
+		//this.teamGaithersburgResults();
 	},
 	teamGaithersburgResults: function() {
-		//this.$.searchSpinner.hide();
-		//this.$.moreSpinner.hide();
-		
 		this.loadGaithersburgData();
 		
 		this.$.list.setCount(this.results.length);
@@ -80,9 +56,7 @@ enyo.kind({
 			this.$.list.refresh();
 		}
 	},
-	searchResults: function(inSender, inResults) {
-		this.$.searchSpinner.hide();
-		this.$.moreSpinner.hide();
+	communityTopicResults: function(inSender, inResults) {
 		this.results = this.results.concat(inResults);
 		this.$.list.setCount(this.results.length);
 		if (this.page === 0) {
