@@ -97,6 +97,7 @@ enyo.kind({
 		// Because lawnchair is async, we must put all actions that we want to take place in its callback.
 		// This also means that we need to scope "this" and pass in the method we want to call using "enyo.bind"
 		var itemTapMethodBoundToThis = enyo.bind(this, "itemTap");
+		var theList = this.$.list;
 		var db = Lawnchair({name : 'db'}, function(store) {
 
 			store.get("lastVisitedTopicIndex", function(obj) {
@@ -109,7 +110,11 @@ enyo.kind({
 					lastVisitedTopicIndex = 0; // set a default
 				}
 
-				itemTapMethodBoundToThis({}, {index: lastVisitedTopicIndex});
+				theList.select(lastVisitedTopicIndex);
+
+				var inSender = {}; 
+				var inEvent = {index: lastVisitedTopicIndex};
+				itemTapMethodBoundToThis(inSender, inEvent);
 			});
 		});
 	},

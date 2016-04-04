@@ -6,9 +6,10 @@ enyo.kind({
 	},
 	url: "http://127.0.0.1:60242/cgi-bin/WebObjects/TeamGaithersburgServer.woa/ra/communityTopics.json",
 	search: function() {
-		var params = {};
+		var params = {
+			nojsoncallback: 1
+		};
 		var req;
-		params.nojsoncallback = 1;
 		req = new enyo.Ajax({url: this.url, handleAs: "text"})
 			.response(this, "processAjaxResponse")
 			.error(enyo.bind(this, function(inSender, inResponse) {
