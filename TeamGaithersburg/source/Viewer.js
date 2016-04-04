@@ -53,6 +53,7 @@ enyo.kind({
 		} else {
 			this.$.list.refresh();
 		}
+		this.tapDefaultTopic();		
 	},
 	setupItem: function(inSender, inEvent) {
 		var i = inEvent.index;
@@ -65,7 +66,7 @@ enyo.kind({
 		if (enyo.Panels.isScreenNarrow()) {
 			this.setIndex(1);
 		}
-		//this.$.imageSpinner.show();
+
 		var item = this.results[inEvent.index];
 		
 		this.$.topicImage.setSrc(item.detailsImage || "assets/together_we_can.jpg");
@@ -82,6 +83,35 @@ enyo.kind({
 		}
 		
 		this.$.detailScroller.scrollTo(0, 0);
+		
+		this.setLastVisitedTopicIndex(inEvent.index);
+	},
+	lastVisitedTopicIndex: function() {
+	},
+	setLastVisitedTopicIndex: function(index) {
+		var db = Lawnchair({name : 'db'}, function(store) {
+			store.save({key:"lastVisitedTopicIndex", value:index});
+		});
+	},
+	tapDefaultTopic: function() {
+		// Because lawnchair is async, we must put all actions that we want to take place in its callback.
+		// This also means that we need to scope "this" and pass in the method we want to call using "enyo.bind"
+		var itemTapMethod = enyo.bind(this, "itemTap");
+		var db = Lawnchair({name : 'db'}, function(store) {
+
+			store.get("lastVisitedTopicIndex", function(obj) {
+				var lastVisitedTopicIndex = null;
+				if (obj && obj.value) {
+					lastVisitedTopicIndex = obj.value;
+				}
+
+				if ( ! lastVisitedTopicIndex) {
+					lastVisitedTopicIndex = 0; // set a default
+				}
+
+				itemTapMethod({}, {index: lastVisitedTopicIndex});
+			});
+		});
 	},
 	showList: function() {
 		this.setIndex(0);
