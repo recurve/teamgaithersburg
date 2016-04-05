@@ -4,11 +4,16 @@ enyo.kind({
 	events: {
 		onResults: ""
 	},
-	url: "http://127.0.0.1:60242/cgi-bin/WebObjects/TeamGaithersburgServer.woa/ra/communityTopics.json",
+	// for connecting to WO Rest app running locally
+//	url: "http://127.0.0.1:60242/cgi-bin/WebObjects/TeamGaithersburgServer.woa/ra/communityTopics.json",
+
+	// for connecting using relative path when installed on server
+//	url: "/cgi-bin/WebObjects/TeamGaithersburgServer.woa/ra/communityTopics.json",
+
+	// for connecting directly
+	url: "http://teamgaithersburg.org/cgi-bin/WebObjects/TeamGaithersburgServer.woa/ra/communityTopics.json",
 	search: function() {
-		var params = {
-			nojsoncallback: 1
-		};
+		var params = {};
 		var req;
 		req = new enyo.Ajax({url: this.url, handleAs: "text"})
 			.response(this, "processAjaxResponse")
