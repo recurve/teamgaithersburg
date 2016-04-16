@@ -7,7 +7,6 @@ enyo.kind({
 		{layoutKind: "FittableRowsLayout", components: [
 			{kind: "List", fit: true, touch: true, onSetupItem: "setupItem", components: [
 				{name: "item", ontap: "itemTap", classes: "panels-sample-flickr-item enyo-border-box", components: [
-					/*{name: "thumbnail", kind: "Image", classes: "panels-sample-flickr-thumbnail"},*/
 					{name: "title", allowHtml: true, classes: "panels-sample-flickr-title"}
 				]},
 			]}
