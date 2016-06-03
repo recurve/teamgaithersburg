@@ -1,6 +1,6 @@
 enyo.kind({
 	name: "CommunityTopic",
-	kind: "Component",
+	kind: "enyo.Control", 
 	events: {
 		onResults: ""
 	},

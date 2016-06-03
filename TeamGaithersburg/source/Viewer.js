@@ -1,31 +1,24 @@
 enyo.kind({
-	name: "Viewer",
-	kind: "Panels",
-	classes: "panels-sample-flickr-panels enyo-unselectable enyo-fit",
-	arrangerKind: "CollapsingArranger",
-	components: [
-		{layoutKind: "FittableRowsLayout", components: [
-			{kind: "List", fit: true, touch: true, onSetupItem: "setupItem", components: [
-				{name: "item", ontap: "itemTap", classes: "panels-sample-flickr-item enyo-border-box", components: [
-					{name: "title", allowHtml: true, classes: "panels-sample-flickr-title"}
-				]},
-			]}
-		]},
-		{name: "pictureView", fit: true, kind: "FittableRows", classes: "enyo-fit panels-sample-flickr-main", components: [
-			{name: "backToolbar", kind: "onyx.Toolbar", showing: false, components: [
-				{kind: "onyx.Button", content: "Back to Topics", ontap: "showList"}
-			]},
-			{fit: true, style: "position: relative;", name: "detailScroller", kind: enyo.Scroller, classes: "detailScroller", components: [
-				{name: "topicImage", kind: "Image", showing: false,  
-					classes: "panels-sample-flickr-center"},
-				{name: "topicDetails", allowHtml: true, showing: false, classes: "panels-sample-flickr-center"},
-				{name: "topicFooterImage", kind: "Image", showing: false,  
-					classes: "panels-sample-flickr-center"}
-			
-			]}
-		]},
-		{name: "communityTopicFetch", kind: "CommunityTopic", onResults: "communityTopicResults"}
-	],
+	name: "Viewer", kind: "Panels", classes: "panels-sample-flickr-panels enyo-unselectable enyo-fit", arrangerKind: "CollapsingArranger", components: [
+				{layoutKind: "FittableRowsLayout", components: [
+						{kind: "List", fit: true, touch: true, onSetupItem: "setupItem", components: [
+								{name: "item", ontap: "itemTap", classes: "panels-sample-flickr-item enyo-border-box", components: [
+										{name: "title", allowHtml: true, classes: "panels-sample-flickr-title"}
+									]}
+							]}
+					]},
+				{name: "pictureView", fit: true, kind: "FittableRows", classes: "enyo-fit panels-sample-flickr-main", components: [
+						{name: "backToolbar", kind: "onyx.Toolbar", showing: false, components: [
+								{kind: "onyx.Button", content: "Back to Topics", ontap: "showList"}
+							]},
+						{name: "detailScroller", kind: "enyo.Scroller", fit: true, style: "position: relative;", classes: "detailScroller", components: [
+								{name: "topicImage", kind: "Image", showing: false, classes: "panels-sample-flickr-center"},
+								{name: "topicDetails", allowHtml: true, showing: false, classes: "panels-sample-flickr-center"},
+								{name: "topicFooterImage", kind: "Image", showing: false, classes: "panels-sample-flickr-center"}
+							]}
+					]},
+				{name: "communityTopicFetch", kind: "CommunityTopic", onResults: "communityTopicResults"}
+			],
 	rendered: enyo.inherit(function(sup) {
 		return function() {
 			sup.apply(this, arguments);
