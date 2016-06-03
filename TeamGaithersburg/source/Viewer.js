@@ -17,7 +17,7 @@ enyo.kind({
 								{name: "topicFooterImage", kind: "Image", showing: false, classes: "panels-sample-flickr-center"}
 							]}
 					]},
-				{name: "communityTopicFetch", kind: "CommunityTopic", onResults: "communityTopicResults"}
+				{name: "communityTopicFetch", kind: "CommunityTopic", onResults: "communityTopicResults", showing: false}
 			],
 	rendered: enyo.inherit(function(sup) {
 		return function() {
